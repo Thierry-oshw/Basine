@@ -183,7 +183,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Chimere_mods:Ultrogothe"
 				(at 15.24 -2.54 0)
 				(effects
 					(font
@@ -5153,7 +5153,7 @@
 		(fields_autoplaced yes)
 		(uuid "1fd8b7f3-613c-420e-95a7-6944caa03ff3")
 		(property "Reference" "U2"
-			(at 147.32 140.3351 90)
+			(at 147.32 139.0649 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5162,7 +5162,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 147.32 138.43 90)
+			(at 147.32 140.97 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5170,7 +5170,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Chimere_mods:Ultrogothe"
 			(at 120.65 124.46 0)
 			(effects
 				(font
