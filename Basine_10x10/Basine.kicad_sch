@@ -1534,6 +1534,12 @@
 		(uuid "76dd3320-08ef-49e1-9706-76862b1a5b63")
 	)
 	(junction
+		(at 144.78 153.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "862ce7b3-2099-4246-b0bf-0292b8f2ddb4")
+	)
+	(junction
 		(at 170.18 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2190,6 +2196,16 @@
 			(type default)
 		)
 		(uuid "58a4c215-baca-4cca-9333-e40fd355e349")
+	)
+	(wire
+		(pts
+			(xy 144.78 153.67) (xy 148.59 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5aadde39-d7c2-48d2-a8a6-bf7ccbbd3241")
 	)
 	(wire
 		(pts
@@ -2883,6 +2899,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 153.67) (xy 144.78 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d39cdb10-c3f5-4895-b2de-283ee841d427")
+	)
+	(wire
+		(pts
 			(xy 134.62 71.12) (xy 139.7 71.12)
 		)
 		(stroke
@@ -2933,7 +2959,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 154.94) (xy 144.78 152.4)
+			(xy 144.78 154.94) (xy 144.78 153.67)
 		)
 		(stroke
 			(width 0)
@@ -5158,6 +5184,29 @@
 		(uuid "e0793d2a-cb97-44a0-ab21-c12df469d31e")
 		(property "Netclass" "signal_x2"
 			(at 157.48 31.0515 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 148.59 153.67 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f5819520-f8cc-4195-b088-082a32272da6")
+		(property "Netclass" "alim"
+			(at 149.2885 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9387,7 +9436,7 @@
 		)
 		(uuid "c0a1413d-0c72-4618-8b9b-4221cc6761bc")
 		(property "Sheetname" "s_ALIM_5V"
-			(at 21.59 51.435 0)
+			(at 21.082 68.326 90)
 			(effects
 				(font
 					(size 1.27 1.27)
