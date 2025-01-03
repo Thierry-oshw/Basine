@@ -866,7 +866,7 @@
 		(sheetname "s_ALIM_5V")
 		(sheetfile "s_ALIM_5V.kicad_sch")
 		(zone_connect 1)
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.4 -1)
 			(end 1.4 -1)
@@ -1267,7 +1267,7 @@
 		(path "/7cbff2a6-7e68-4f58-8af9-67ade4629066")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_rect
 			(start -17.02 -2.46)
 			(end 17.0414 2.54)
@@ -1928,7 +1928,7 @@
 		(at 112.5 107.6 180)
 		(tags "2060-451/998-404 ")
 		(property "Reference" "J2"
-			(at 0 -9.652 0)
+			(at -2.3 -9.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "78005618-0f4c-40c0-9b08-00487505d598")
@@ -2568,7 +2568,7 @@
 		(path "/86fb7c94-6734-4753-8645-31c0faa4d9f9")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 0)
 			(unlocked yes)
@@ -2664,7 +2664,7 @@
 		(path "/b7b1c9ef-37c7-4454-b901-1b5bd5312c1a")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 0)
 			(unlocked yes)
@@ -3047,7 +3047,7 @@
 		(path "/98623ac7-d4cc-4a87-abf1-e271cbd8d654")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_rect
 			(start -17.02 -2.46)
 			(end 17.0414 2.54)
@@ -3344,7 +3344,7 @@
 		(path "/fb4f4f45-f140-4176-8789-65efe9715cff")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 0)
 			(unlocked yes)
@@ -3641,7 +3641,7 @@
 		(path "/e05a6042-c074-435c-a400-c33ee297828b")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_rect
 			(start -17.02 -2.46)
 			(end 17.0414 2.54)
@@ -4618,7 +4618,7 @@
 		(path "/5a18404b-6ce3-401e-95e5-0064951fc8ca")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 0)
 			(unlocked yes)
@@ -4713,7 +4713,7 @@
 		(path "/3afbdcf9-556a-40a8-a9da-a7e60803c8a4")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_rect
 			(start -17.02 -2.46)
 			(end 17.0414 2.54)
@@ -5726,7 +5726,7 @@
 		(path "/11524260-9a52-469d-8dc0-acca2e3fd5e3")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 0)
 			(unlocked yes)
@@ -6569,7 +6569,7 @@
 		(path "/c0a1413d-0c72-4618-8b9b-4221cc6761bc/8d42611c-6de1-463e-baed-650fe9862ddf")
 		(sheetname "s_ALIM_5V")
 		(sheetfile "s_ALIM_5V.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 0)
 			(unlocked yes)
@@ -7131,7 +7131,7 @@
 		(path "/bf5ae570-c23f-4eb9-a169-2a2181809f3d")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_rect
 			(start -17.02 -2.46)
 			(end 17.0414 2.54)
@@ -7428,7 +7428,7 @@
 		(path "/c189ca9f-7ee8-42f4-b0a5-b1469c5c7891")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 0)
 			(unlocked yes)
@@ -7523,7 +7523,7 @@
 		(path "/8c781099-5c67-4fef-a978-55d581e605f9")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_rect
 			(start -17.02 -2.46)
 			(end 17.0414 2.54)
@@ -8512,7 +8512,7 @@
 		(path "/76f016b1-d7b1-4461-b3bb-f1e8d22f2e7b")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 0)
 			(unlocked yes)
@@ -9632,7 +9632,7 @@
 		(path "/73c82e7a-e263-4679-8717-0593dbd68875")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_rect
 			(start -17.02 -2.46)
 			(end 17.0414 2.54)
@@ -10318,7 +10318,7 @@
 		(at 118.3 107.6 180)
 		(tags "2060-451/998-404 ")
 		(property "Reference" "J3"
-			(at 0 -9.652 0)
+			(at -2.4 -9.6 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "e530342c-cf84-47a1-a2bd-0e375a7a3b4e")
@@ -10607,7 +10607,7 @@
 		(descr "Diode SMB (DO-214AA)")
 		(tags "Diode SMB (DO-214AA)")
 		(property "Reference" "D2"
-			(at 0.05 -3 0)
+			(at -4.45 0.2 90)
 			(layer "F.SilkS")
 			(uuid "80af2632-5534-4cb8-875c-46a55a2b1969")
 			(effects
@@ -11705,7 +11705,7 @@
 		(path "/a190249b-0da7-4632-95af-b0cc01019cd6")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 0)
 			(unlocked yes)
@@ -14531,7 +14531,7 @@
 		(path "/f4faf120-126f-4eaf-9676-0d96dc1f2e3c")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 0)
 			(unlocked yes)
@@ -14828,7 +14828,7 @@
 		(path "/41705d7e-9b3a-4201-890d-6787acd3a4ee")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_rect
 			(start -17.02 -2.46)
 			(end 17.0414 2.54)
@@ -15125,7 +15125,7 @@
 		(path "/bdb22b99-b669-43c3-b90f-01a6f8b0829a")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 0)
 			(unlocked yes)
@@ -15703,7 +15703,7 @@
 		(at 106.7 107.6 180)
 		(tags "2060-451/998-404 ")
 		(property "Reference" "J1"
-			(at 0 -9.652 0)
+			(at -2.7 -9.6 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "9c4af582-63b8-4116-aa58-35f2b4fba4c3")
@@ -16280,7 +16280,7 @@
 		(path "/8ec9f159-8e11-4cb5-bcca-741a05560bdd")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_rect
 			(start -17.02 -2.46)
 			(end 17.0414 2.54)
@@ -16576,7 +16576,7 @@
 		(path "/48bcc798-c51e-4355-9e61-b620e9ae6d8d")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_rect
 			(start -17.02 -2.46)
 			(end 17.0414 2.54)
@@ -17297,7 +17297,7 @@
 		(path "/da10a046-1783-4b74-a864-b0b3afbd310d")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 0)
 			(unlocked yes)
@@ -18348,7 +18348,7 @@
 		(path "/4e188ff5-44af-479b-8753-12afb7ead303")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 0)
 			(unlocked yes)
@@ -19265,7 +19265,7 @@
 		(path "/1fd8b7f3-613c-420e-95a7-6944caa03ff3")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_rect
 			(start -10.16 -27.305)
 			(end 10.16 27.305)
@@ -21214,7 +21214,7 @@
 		(path "/31ad2348-f65d-41df-aabe-73fa13901bfc")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_rect
 			(start -17.02 -2.46)
 			(end 17.0414 2.54)
@@ -22492,7 +22492,7 @@
 		(path "/53fc38cf-63ab-447f-be44-6c592a0a4b5d")
 		(sheetname "Racine")
 		(sheetfile "Basine.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_rect
 			(start -17.02 -2.46)
 			(end 17.0414 2.54)
@@ -22789,7 +22789,7 @@
 		(path "/c0a1413d-0c72-4618-8b9b-4221cc6761bc/efabf07c-07e3-4cdd-83be-b3c161191079")
 		(sheetname "s_ALIM_5V")
 		(sheetfile "s_ALIM_5V.kicad_sch")
-		(attr through_hole exclude_from_pos_files)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 0)
 			(unlocked yes)
@@ -23048,7 +23048,7 @@
 		(at 124.1 107.6 180)
 		(tags "2060-451/998-404 ")
 		(property "Reference" "J4"
-			(at 0 -9.652 0)
+			(at -1.1 -9.5 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "5aef821c-3ed5-4421-b9b3-03b3e9cbbfdd")
@@ -25001,14 +25001,80 @@
 		(layer "User.9")
 		(uuid "da3265ff-20f7-4b70-9934-135a2f5a682c")
 	)
+	(gr_text "10"
+		(at 184.2 106.5 -0)
+		(layer "B.SilkS")
+		(uuid "02fae0b1-f127-4556-ae1e-0e453461146a")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "12"
+		(at 195.9 106.4 -0)
+		(layer "B.SilkS")
+		(uuid "06482f76-9a0a-4524-b5cc-7514805e305c")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "CAN_L"
-		(at 123.5 106.1 -90)
+		(at 122.9 113.3 270)
 		(layer "B.SilkS")
 		(uuid "0c06ae91-7909-4c46-9f98-62024cd0d71b")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "5"
+		(at 154.3 106.8 -0)
+		(layer "B.SilkS")
+		(uuid "1302bdbe-3596-43b1-939f-eb92dd70a266")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "5V"
+		(at 127.3 148.7 0)
+		(layer "B.SilkS")
+		(uuid "17b1c469-959c-49a3-b7b7-192f5f375e60")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "3"
+		(at 142.5 106.8 -0)
+		(layer "B.SilkS")
+		(uuid "1e92be38-b16e-4563-b874-b02628b37c8f")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
 			)
 			(justify left bottom mirror)
 		)
@@ -25039,6 +25105,19 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "0V"
+		(at 127.3 154 0)
+		(layer "B.SilkS")
+		(uuid "23235527-ebb3-4eb4-80e5-9fb4b9ab97dc")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "10"
 		(at 184.2 131.7 -0)
 		(layer "B.SilkS")
@@ -25053,7 +25132,7 @@
 		)
 	)
 	(gr_text "5"
-		(at 154.7 131.7 -0)
+		(at 154.3 132 -0)
 		(layer "B.SilkS")
 		(uuid "33005d49-a285-4f0e-aced-5efdd308683c")
 		(effects
@@ -25066,13 +25145,14 @@
 		)
 	)
 	(gr_text "CAN_H"
-		(at 117.8 106.2 -90)
+		(at 117 113.3 270)
 		(layer "B.SilkS")
 		(uuid "3721a6bd-69d6-4c56-89eb-08bdfc908626")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
 			)
 			(justify left bottom mirror)
 		)
@@ -25116,6 +25196,58 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "0V"
+		(at 111.2 113.1 270)
+		(layer "B.SilkS")
+		(uuid "59f6e3d3-5f23-4691-b694-92827b3fd088")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "2"
+		(at 137.1 106.7 -0)
+		(layer "B.SilkS")
+		(uuid "718b73b5-8027-44fa-86f7-6b21d0da8b54")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "6"
+		(at 160.1 106.7 -0)
+		(layer "B.SilkS")
+		(uuid "73287503-a1b6-4dfe-b398-27a0df278844")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "4"
+		(at 148.9 106.7 -0)
+		(layer "B.SilkS")
+		(uuid "734de6a0-5a9d-458e-8943-e2f4a13fb7f8")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "6"
 		(at 160.1 131.9 -0)
 		(layer "B.SilkS")
@@ -25133,6 +25265,32 @@
 		(at 177.6 131.7 -0)
 		(layer "B.SilkS")
 		(uuid "8b0c46ae-fb21-4b01-9f1a-4015d2336d8d")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "24V"
+		(at 105.3 113.3 270)
+		(layer "B.SilkS")
+		(uuid "953137dd-95bc-48ac-b847-4ef6f43a7b50")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "7"
+		(at 165.9 106.7 -0)
+		(layer "B.SilkS")
+		(uuid "9a5a5354-dd4c-48c1-9d39-a44dab51a106")
 		(effects
 			(font
 				(size 2 2)
@@ -25181,6 +25339,45 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "3V3"
+		(at 127.2 151.3 0)
+		(layer "B.SilkS")
+		(uuid "b00d5aff-e509-461f-b70f-6138e5c4ae92")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "11"
+		(at 190.2 106.4 -0)
+		(layer "B.SilkS")
+		(uuid "b2aa51ef-27c7-4985-8ed5-eff6214c7fea")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "8"
+		(at 171.9 106.6 -0)
+		(layer "B.SilkS")
+		(uuid "b620d5ec-4170-467b-94b2-8d776de13fc1")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "autre source"
 		(at 118.3 124.5 -0)
 		(layer "B.SilkS")
@@ -25220,10 +25417,36 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "9"
+		(at 177.6 106.5 -0)
+		(layer "B.SilkS")
+		(uuid "efec1c4a-1e96-4740-8dd7-f3665ca04c5d")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "12"
 		(at 195.9 131.6 -0)
 		(layer "B.SilkS")
 		(uuid "fa2b9e5e-3534-4a52-9ba2-068f3ff4e9b0")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "1"
+		(at 131.2 106.7 -0)
+		(layer "B.SilkS")
+		(uuid "fda6f4f9-01f6-4f50-8fd2-d467cd477c16")
 		(effects
 			(font
 				(size 2 2)
@@ -25246,10 +25469,49 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "9"
+		(at 174.5 159.9 0)
+		(layer "F.SilkS")
+		(uuid "0e10bb4a-fc32-467c-a60a-f94b35331e0b")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "5"
 		(at 152.2 131.8 0)
 		(layer "F.SilkS")
 		(uuid "1c0dc0f6-62d2-46d6-9b2a-b5e2002c0b3b")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "H"
+		(at 119.4 116.5 180)
+		(layer "F.SilkS")
+		(uuid "1cc52131-5cd6-4ea7-b99f-936923161b9a")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.375)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "10"
+		(at 179.2 159.9 0)
+		(layer "F.SilkS")
+		(uuid "2560e127-612a-44c9-8920-eef1e9ee6ed8")
 		(effects
 			(font
 				(size 2 2)
@@ -25272,10 +25534,62 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "11"
+		(at 185.2 159.8 0)
+		(layer "F.SilkS")
+		(uuid "3cacc60a-947c-42f9-9b89-cfceb80f5ada")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "2"
+		(at 134.1 160.1 0)
+		(layer "F.SilkS")
+		(uuid "40f11b3e-bd65-449f-93bd-c88936cabb6c")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "4"
 		(at 146.3 132 0)
 		(layer "F.SilkS")
 		(uuid "445bf2f0-192a-4fa8-810a-875c2e13d875")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "0V"
+		(at 110.9 118.3 0)
+		(layer "F.SilkS")
+		(uuid "4a1cb6f6-e5d8-41d8-bb98-e5985978d21c")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.375)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "5V"
+		(at 123.2 148.9 -0)
+		(layer "F.SilkS")
+		(uuid "4d95c905-dfc7-46b6-a45b-2a5bf764d860")
 		(effects
 			(font
 				(size 2 2)
@@ -25324,10 +25638,49 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "L"
+		(at 122.3 118.3 0)
+		(layer "F.SilkS")
+		(uuid "7f8d3a5b-c5ce-4d55-a1d4-4438764606dd")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.375)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "10"
 		(at 179.9 131.7 0)
 		(layer "F.SilkS")
 		(uuid "81122d82-a3d0-49d2-b8ce-263d1f1811df")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "3V3"
+		(at 121.6 151.5 -0)
+		(layer "F.SilkS")
+		(uuid "81e10268-457c-43ce-8336-4b3363bf9146")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "3"
+		(at 139.5 160.2 0)
+		(layer "F.SilkS")
+		(uuid "8753d642-4742-432e-a41f-b79988f33156")
 		(effects
 			(font
 				(size 2 2)
@@ -25350,6 +25703,71 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "6"
+		(at 157 160.1 0)
+		(layer "F.SilkS")
+		(uuid "a7d08108-398e-4ac8-b02b-1ce4ceccbaa1")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "24V"
+		(at 104.2 118.5 0)
+		(layer "F.SilkS")
+		(uuid "acf15c94-3f77-4cf7-bd91-3e8430a65429")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.375)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "4"
+		(at 145.6 160.2 0)
+		(layer "F.SilkS")
+		(uuid "af33a382-ee3b-47b5-a5d2-4283b661dc3b")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "12"
+		(at 191 159.8 0)
+		(layer "F.SilkS")
+		(uuid "b86356c8-3189-4bb1-95e9-ff15292ea001")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "7"
+		(at 162.8 160.1 0)
+		(layer "F.SilkS")
+		(uuid "b902c433-88b6-4def-b4ad-a9ac2a254544")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "9"
 		(at 175.2 131.7 0)
 		(layer "F.SilkS")
@@ -25363,10 +25781,36 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "CAN"
+		(at 117.9 122.9 90)
+		(layer "F.SilkS")
+		(uuid "dc814541-03ec-45b3-8c49-93304bb17c03")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.375)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "3"
 		(at 140.2 132 0)
 		(layer "F.SilkS")
 		(uuid "ddb94881-f705-4ece-91a2-81862fc83907")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "0V"
+		(at 123.3 154.2 -0)
+		(layer "F.SilkS")
+		(uuid "e6d98803-f659-4891-9a38-a6008b116204")
 		(effects
 			(font
 				(size 2 2)
@@ -25393,6 +25837,45 @@
 		(at 169.5 131.8 0)
 		(layer "F.SilkS")
 		(uuid "ef4f92d9-23dd-4a1e-9b49-63791c23d13b")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "1"
+		(at 128.1 160.1 0)
+		(layer "F.SilkS")
+		(uuid "f0282d79-d7c2-4af1-91e2-c42a2bc6fe68")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "8"
+		(at 168.8 160 0)
+		(layer "F.SilkS")
+		(uuid "f70668b0-4c9d-4c91-8a3c-6134d1e9cf2e")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "5"
+		(at 151.5 160 0)
+		(layer "F.SilkS")
+		(uuid "fd10ae36-2b73-484d-992c-4700504b605b")
 		(effects
 			(font
 				(size 2 2)
