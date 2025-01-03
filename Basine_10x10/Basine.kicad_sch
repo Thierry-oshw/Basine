@@ -3127,9 +3127,9 @@
 		)
 		(uuid "fedd8ede-dafc-45a3-8c0a-1b719cc54401")
 	)
-	(text "2060-1451/998-404\nen version traversante"
+	(text "WAGO\n2060-1451/998-404\nen version traversante"
 		(exclude_from_sim no)
-		(at 228.092 22.352 0)
+		(at 197.866 21.844 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3156,26 +3156,6 @@
 			)
 		)
 		(uuid "a0a0d449-97bf-4a17-8362-fd1eec6b2b42")
-	)
-	(text "remplacement C306142 ?"
-		(exclude_from_sim no)
-		(at 201.422 30.48 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "a5a81190-441b-4d78-9357-f8f6e1a98f1d")
-	)
-	(text "WAGO\n2060-451/998-404\nC2765054"
-		(exclude_from_sim no)
-		(at 198.628 22.86 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "d3e92c3d-1f22-4335-aa07-666c81837920")
 	)
 	(global_label "24V"
 		(shape input)
@@ -5264,7 +5244,7 @@
 		(at 160.02 21.59 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "04a34cb5-99fc-43f4-bd7f-32540c5a4764")
@@ -5286,7 +5266,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
 			(at 160.02 21.59 0)
 			(effects
 				(font
@@ -5305,15 +5285,6 @@
 			)
 		)
 		(property "Description" "~"
-			(at 160.02 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2765054"
 			(at 160.02 21.59 0)
 			(effects
 				(font
@@ -5339,7 +5310,7 @@
 		(at 44.45 21.59 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "0a421242-d886-4ebd-baab-a87b39593fc2")
@@ -5361,7 +5332,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
 			(at 44.45 21.59 0)
 			(effects
 				(font
@@ -5380,15 +5351,6 @@
 			)
 		)
 		(property "Description" "~"
-			(at 44.45 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2765054"
 			(at 44.45 21.59 0)
 			(effects
 				(font
@@ -5823,7 +5785,7 @@
 		(at 20.32 21.59 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "2af921dc-832d-43a8-993d-3c54b665c05c")
@@ -5845,7 +5807,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
 			(at 20.32 21.59 0)
 			(effects
 				(font
@@ -5864,15 +5826,6 @@
 			)
 		)
 		(property "Description" "~"
-			(at 20.32 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2765054"
 			(at 20.32 21.59 0)
 			(effects
 				(font
@@ -6044,7 +5997,7 @@
 		(at 129.54 21.59 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "370510d1-f983-4891-939d-5d12b68b5ad2")
@@ -6066,7 +6019,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
 			(at 129.54 21.59 0)
 			(effects
 				(font
@@ -6085,15 +6038,6 @@
 			)
 		)
 		(property "Description" "~"
-			(at 129.54 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2765054"
 			(at 129.54 21.59 0)
 			(effects
 				(font
@@ -6197,7 +6141,7 @@
 		(at 50.8 21.59 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "3e9f13dc-ad62-40cf-896b-1c12fffdb477")
@@ -6219,7 +6163,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
 			(at 50.8 21.59 0)
 			(effects
 				(font
@@ -6238,15 +6182,6 @@
 			)
 		)
 		(property "Description" "~"
-			(at 50.8 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2765054"
 			(at 50.8 21.59 0)
 			(effects
 				(font
@@ -6350,7 +6285,7 @@
 		(at 119.38 21.59 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "4750bc7b-6939-450a-8bb5-4a5f8736c9f7")
@@ -6372,7 +6307,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
 			(at 119.38 21.59 0)
 			(effects
 				(font
@@ -6391,15 +6326,6 @@
 			)
 		)
 		(property "Description" "~"
-			(at 119.38 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2765054"
 			(at 119.38 21.59 0)
 			(effects
 				(font
@@ -6568,7 +6494,7 @@
 		(at 180.34 21.59 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "4ee93eb9-4ab5-4558-82cd-ef6328786d39")
@@ -6590,7 +6516,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
 			(at 180.34 21.59 0)
 			(effects
 				(font
@@ -6609,15 +6535,6 @@
 			)
 		)
 		(property "Description" "~"
-			(at 180.34 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2765054"
 			(at 180.34 21.59 0)
 			(effects
 				(font
@@ -6854,7 +6771,7 @@
 		(at 88.9 21.59 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "60c55c89-83ed-4f5e-adb8-0c256b4685cb")
@@ -6876,7 +6793,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
 			(at 88.9 21.59 0)
 			(effects
 				(font
@@ -6895,15 +6812,6 @@
 			)
 		)
 		(property "Description" "~"
-			(at 88.9 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2765054"
 			(at 88.9 21.59 0)
 			(effects
 				(font
@@ -6929,7 +6837,7 @@
 		(at 149.86 21.59 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "675d6134-4d5e-4760-ac84-cb59df0a1b21")
@@ -6951,7 +6859,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
 			(at 149.86 21.59 0)
 			(effects
 				(font
@@ -6970,15 +6878,6 @@
 			)
 		)
 		(property "Description" "~"
-			(at 149.86 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2765054"
 			(at 149.86 21.59 0)
 			(effects
 				(font
@@ -7283,7 +7182,7 @@
 		(at 109.22 21.59 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "7c065605-0ad3-4402-93ce-6b532d200767")
@@ -7305,7 +7204,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
 			(at 109.22 21.59 0)
 			(effects
 				(font
@@ -7324,15 +7223,6 @@
 			)
 		)
 		(property "Description" "~"
-			(at 109.22 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2765054"
 			(at 109.22 21.59 0)
 			(effects
 				(font
@@ -7936,7 +7826,7 @@
 		(at 139.7 21.59 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "ac4bb1ac-4dd0-480e-a1e9-49c62b66181a")
@@ -7958,7 +7848,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
 			(at 139.7 21.59 0)
 			(effects
 				(font
@@ -7977,15 +7867,6 @@
 			)
 		)
 		(property "Description" "~"
-			(at 139.7 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2765054"
 			(at 139.7 21.59 0)
 			(effects
 				(font
@@ -8284,7 +8165,7 @@
 		(at 99.06 21.59 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "d014331c-9aaa-45e3-80e1-08ab76b36ea8")
@@ -8306,7 +8187,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
 			(at 99.06 21.59 0)
 			(effects
 				(font
@@ -8325,15 +8206,6 @@
 			)
 		)
 		(property "Description" "~"
-			(at 99.06 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2765054"
 			(at 99.06 21.59 0)
 			(effects
 				(font
@@ -8638,7 +8510,7 @@
 		(at 68.58 21.59 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "e72feb0e-1ca1-4f6d-a410-49da17012cc0")
@@ -8660,7 +8532,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
 			(at 68.58 21.59 0)
 			(effects
 				(font
@@ -8679,15 +8551,6 @@
 			)
 		)
 		(property "Description" "~"
-			(at 68.58 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2765054"
 			(at 68.58 21.59 0)
 			(effects
 				(font
@@ -8713,7 +8576,7 @@
 		(at 78.74 21.59 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "e7af13fe-8683-461b-b92c-3a89c75953b5")
@@ -8735,7 +8598,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
 			(at 78.74 21.59 0)
 			(effects
 				(font
@@ -8754,15 +8617,6 @@
 			)
 		)
 		(property "Description" "~"
-			(at 78.74 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2765054"
 			(at 78.74 21.59 0)
 			(effects
 				(font
@@ -8856,7 +8710,7 @@
 		(at 26.67 21.59 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "edb0b86d-02db-4c16-89f9-37f3400ddd8a")
@@ -8878,7 +8732,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
 			(at 26.67 21.59 0)
 			(effects
 				(font
@@ -8897,15 +8751,6 @@
 			)
 		)
 		(property "Description" "~"
-			(at 26.67 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2765054"
 			(at 26.67 21.59 0)
 			(effects
 				(font
@@ -8931,7 +8776,7 @@
 		(at 170.18 21.59 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "f0cee7db-325d-4695-8bea-e83e20768cc7")
@@ -8953,7 +8798,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
 			(at 170.18 21.59 0)
 			(effects
 				(font
@@ -8972,15 +8817,6 @@
 			)
 		)
 		(property "Description" "~"
-			(at 170.18 21.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C2765054"
 			(at 170.18 21.59 0)
 			(effects
 				(font
