@@ -3127,6 +3127,16 @@
 		)
 		(uuid "fedd8ede-dafc-45a3-8c0a-1b719cc54401")
 	)
+	(text "2060-1451/998-404\nen version traversante"
+		(exclude_from_sim no)
+		(at 228.092 22.352 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4c6873fc-68f9-483f-8aef-5e795b6fa1ad")
+	)
 	(text "Allumettes"
 		(exclude_from_sim no)
 		(at 194.564 48.26 0)
