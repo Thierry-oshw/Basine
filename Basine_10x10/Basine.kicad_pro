@@ -70,16 +70,19 @@
         "copper_edge_clearance": "error",
         "copper_sliver": "warning",
         "courtyards_overlap": "error",
+        "creepage": "error",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
         "drill_out_of_range": "error",
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
         "footprint": "error",
+        "footprint_filters_mismatch": "ignore",
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "error",
         "hole_clearance": "error",
         "hole_near_hole": "error",
+        "hole_to_hole": "error",
         "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
@@ -90,9 +93,11 @@
         "lib_footprint_mismatch": "warning",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
+        "mirrored_text_on_front_layer": "warning",
         "missing_courtyard": "ignore",
         "missing_footprint": "warning",
         "net_conflict": "warning",
+        "nonmirrored_text_on_back_layer": "warning",
         "npth_inside_courtyard": "ignore",
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
@@ -107,7 +112,9 @@
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
+        "track_angle": "error",
         "track_dangling": "warning",
+        "track_segment_length": "error",
         "track_width": "error",
         "tracks_crossing": "error",
         "unconnected_items": "error",
@@ -122,6 +129,7 @@
         "min_clearance": 0.2,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.0,
+        "min_groove_width": 0.0,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
@@ -141,10 +149,11 @@
       },
       "teardrop_options": [
         {
-          "td_onpadsmd": true,
+          "td_onpthpad": true,
           "td_onroundshapesonly": false,
+          "td_onsmdpad": true,
           "td_ontrackend": false,
-          "td_onviapad": true
+          "td_onvia": true
         }
       ],
       "teardrop_parameters": [
@@ -227,6 +236,7 @@
       "mfg": "",
       "mpn": ""
     },
+    "layer_pairs": [],
     "layer_presets": [],
     "viewports": []
   },
@@ -421,10 +431,15 @@
       "duplicate_sheet_names": "error",
       "endpoint_off_grid": "warning",
       "extra_units": "error",
+      "footprint_filter": "ignore",
+      "footprint_link_issues": "warning",
+      "four_way_junction": "ignore",
       "global_label_dangling": "warning",
       "hier_label_mismatch": "error",
       "label_dangling": "error",
+      "label_multiple_wires": "warning",
       "lib_symbol_issues": "warning",
+      "lib_symbol_mismatch": "warning",
       "missing_bidi_pin": "warning",
       "missing_input_pin": "warning",
       "missing_power_pin": "error",
@@ -437,9 +452,14 @@
       "pin_not_driven": "error",
       "pin_to_pin": "error",
       "power_pin_not_driven": "error",
+      "same_local_global_label": "warning",
+      "similar_label_and_power": "warning",
       "similar_labels": "warning",
+      "similar_power": "warning",
       "simulation_model_issue": "ignore",
+      "single_global_label": "ignore",
       "unannotated": "error",
+      "unconnected_wire_endpoint": "warning",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -451,7 +471,7 @@
   },
   "meta": {
     "filename": "Basine.kicad_pro",
-    "version": 1
+    "version": 3
   },
   "net_settings": {
     "classes": [
@@ -466,6 +486,7 @@
         "microvia_drill": 0.1,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.3,
         "via_diameter": 0.5,
@@ -483,6 +504,7 @@
         "microvia_drill": 0.1,
         "name": "alim",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.5,
         "via_diameter": 0.5,
@@ -500,6 +522,7 @@
         "microvia_drill": 0.1,
         "name": "alim_x2",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 1.0,
         "via_diameter": 0.5,
@@ -517,6 +540,7 @@
         "microvia_drill": 0.1,
         "name": "signal_can",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "via_diameter": 0.5,
@@ -534,6 +558,7 @@
         "microvia_drill": 0.1,
         "name": "signal_eth",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 3,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.3,
         "via_diameter": 0.5,
@@ -551,6 +576,7 @@
         "microvia_drill": 0.1,
         "name": "signal_x2",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 4,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.6,
         "via_diameter": 0.5,
@@ -559,37 +585,89 @@
       }
     ],
     "meta": {
-      "version": 3
+      "version": 4
     },
     "net_colors": null,
     "netclass_assignments": {
-      "/s_ALIM_5V/Vs_f": "alim",
+      "/s_ALIM_5V/Vs_f": [
+        "alim"
+      ],
       "/s_ALIM_CAN/Vs_f": "alim",
-      "/s_CAN/CAN_iN": "signal_can",
-      "/s_CAN/CAN_iP": "signal_can",
-      "/s_CAN/CAN_jN": "signal_can",
-      "/s_CAN/CAN_jNi": "signal_can",
-      "/s_CAN/CAN_jP": "signal_can",
-      "/s_CAN/CAN_jPi": "signal_can",
-      "/s_CAN/can_milieu": "signal_can",
-      "24V": "alim_x2",
-      "3V3": "alim",
-      "5V": "alim",
-      "CAN_N": "signal_can",
-      "CAN_P": "signal_can",
-      "Net-(D4-A)": "alim",
-      "Net-(J10-Pin_1)": "signal_x2",
-      "Net-(J11-Pin_1)": "signal_x2",
-      "Net-(J12-Pin_1)": "signal_x2",
-      "Net-(J13-Pin_1)": "signal_x2",
-      "Net-(J14-Pin_1)": "signal_x2",
-      "Net-(J15-Pin_1)": "signal_x2",
-      "Net-(J16-Pin_1)": "signal_x2",
-      "Net-(J5-Pin_1)": "signal_x2",
-      "Net-(J6-Pin_1)": "signal_x2",
-      "Net-(J7-Pin_1)": "signal_x2",
-      "Net-(J8-Pin_1)": "signal_x2",
-      "Net-(J9-Pin_1)": "signal_x2",
+      "/s_CAN/CAN_iN": [
+        "signal_can"
+      ],
+      "/s_CAN/CAN_iP": [
+        "signal_can"
+      ],
+      "/s_CAN/CAN_jN": [
+        "signal_can"
+      ],
+      "/s_CAN/CAN_jNi": [
+        "signal_can"
+      ],
+      "/s_CAN/CAN_jP": [
+        "signal_can"
+      ],
+      "/s_CAN/CAN_jPi": [
+        "signal_can"
+      ],
+      "/s_CAN/can_milieu": [
+        "signal_can"
+      ],
+      "24V": [
+        "alim_x2"
+      ],
+      "3V3": [
+        "alim"
+      ],
+      "5V": [
+        "alim"
+      ],
+      "CAN_N": [
+        "signal_can"
+      ],
+      "CAN_P": [
+        "signal_can"
+      ],
+      "Net-(D4-A)": [
+        "alim"
+      ],
+      "Net-(J10-Pin_1)": [
+        "signal_x2"
+      ],
+      "Net-(J11-Pin_1)": [
+        "signal_x2"
+      ],
+      "Net-(J12-Pin_1)": [
+        "signal_x2"
+      ],
+      "Net-(J13-Pin_1)": [
+        "signal_x2"
+      ],
+      "Net-(J14-Pin_1)": [
+        "signal_x2"
+      ],
+      "Net-(J15-Pin_1)": [
+        "signal_x2"
+      ],
+      "Net-(J16-Pin_1)": [
+        "signal_x2"
+      ],
+      "Net-(J5-Pin_1)": [
+        "signal_x2"
+      ],
+      "Net-(J6-Pin_1)": [
+        "signal_x2"
+      ],
+      "Net-(J7-Pin_1)": [
+        "signal_x2"
+      ],
+      "Net-(J8-Pin_1)": [
+        "signal_x2"
+      ],
+      "Net-(J9-Pin_1)": [
+        "signal_x2"
+      ],
       "pin1": "alim",
       "pin2": "alim"
     },
@@ -796,6 +874,7 @@
       ],
       "filter_string": "",
       "group_symbols": true,
+      "include_excluded_from_bom": false,
       "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
@@ -839,6 +918,7 @@
     },
     "page_layout_descr_file": "",
     "plot_directory": "",
+    "space_save_all_events": true,
     "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -852,7 +932,7 @@
   "sheets": [
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
-      "Racine"
+      "Root"
     ],
     [
       "c0a1413d-0c72-4618-8b9b-4221cc6761bc",
