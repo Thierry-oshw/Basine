@@ -1,0 +1,3603 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "8f8507a5-465d-4705-a49d-1fb0823e52bf")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Connector_Generic:Conn_01x01"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x01"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x01_1_1"
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -1.27)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(junction
+		(at 121.92 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "01d495ec-001f-4413-be27-85ac324b9ed7")
+	)
+	(junction
+		(at 226.06 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "028fb57c-6306-46df-9e47-b42a7cfaa92a")
+	)
+	(junction
+		(at 41.91 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0a421473-8760-4916-8381-a37d13f74481")
+	)
+	(junction
+		(at 129.54 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0a6623d1-82a8-429c-912c-a261b8df2842")
+	)
+	(junction
+		(at 76.2 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "15739eb1-3c42-49f3-883b-ff333fe8c90a")
+	)
+	(junction
+		(at 109.22 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1798404b-d99b-4819-9b3a-909c6202e055")
+	)
+	(junction
+		(at 58.42 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1c9ab45f-bc8c-4972-b04c-b8dbb52bb968")
+	)
+	(junction
+		(at 33.02 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2e186de8-7917-4d93-b157-ab62a2d05dff")
+	)
+	(junction
+		(at 193.04 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3e396eb2-4b68-4263-8a35-130463517b21")
+	)
+	(junction
+		(at 167.64 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "412b5e3f-5cf8-4e1f-9fda-e4a8341daaba")
+	)
+	(junction
+		(at 101.6 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "422ba3b0-9a4b-4694-ba23-94f11568c3fe")
+	)
+	(junction
+		(at 142.24 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "492e92f1-b7df-417b-b614-1279056c1575")
+	)
+	(junction
+		(at 101.6 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5d2b4ae8-bc70-43ef-b977-8a8a55952cb2")
+	)
+	(junction
+		(at 149.86 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "695304b6-3f51-44eb-bd74-25d5ed74b187")
+	)
+	(junction
+		(at 167.64 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "77f06d22-f35d-4272-aade-c97bcb1f9898")
+	)
+	(junction
+		(at 58.42 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "785ac13a-3419-46d1-9d28-3c82bdcdfb09")
+	)
+	(junction
+		(at 175.26 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8810fac2-1cba-4b55-b675-937b150077e3")
+	)
+	(junction
+		(at 129.54 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b2e3dbc-a06b-476a-a2bd-b9d98ed4a824")
+	)
+	(junction
+		(at 109.22 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b3089f5-5e6a-4dd1-9a11-1e2d32ad226e")
+	)
+	(junction
+		(at 238.76 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "933bcdda-8472-40a5-ba91-44c8a87fcf1d")
+	)
+	(junction
+		(at 50.8 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9f6690a4-4dd7-4c03-8f48-c275c4e75e38")
+	)
+	(junction
+		(at 121.92 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a4342706-3db7-4b87-9c43-49dfd81abe60")
+	)
+	(junction
+		(at 25.4 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a539faf1-c44d-4647-afce-6b66abdc3edc")
+	)
+	(junction
+		(at 193.04 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a7c45cc5-cbd9-41ac-bcf1-78c2b8f08b6b")
+	)
+	(junction
+		(at 83.82 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "af3f769b-9da9-41a0-9228-1fe210fd51df")
+	)
+	(junction
+		(at 149.86 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d061cf74-c0cb-4bfc-a01a-3bc7d0ab4136")
+	)
+	(junction
+		(at 218.44 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "da9dda45-4343-4056-b1b6-2efde551e0c5")
+	)
+	(junction
+		(at 175.26 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dc554175-b6fe-4191-bc25-f87d88172722")
+	)
+	(junction
+		(at 83.82 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e198cb80-87fc-419c-b38e-25f1ecf67dd3")
+	)
+	(junction
+		(at 33.02 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e4fd4c03-1b17-45bf-8e56-8f5c1abdbd55")
+	)
+	(junction
+		(at 76.2 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f3bda3e4-6d74-427f-b9b1-bb12d49b5c62")
+	)
+	(junction
+		(at 41.91 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f6676a5b-3651-4c84-a18e-4e74bf5cc318")
+	)
+	(junction
+		(at 142.24 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f93b5531-000f-4445-9926-586e89e7b3c4")
+	)
+	(junction
+		(at 200.66 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fb799226-bc73-4f58-940c-f678a9146b06")
+	)
+	(junction
+		(at 50.8 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fe409ee1-194e-46cd-8f37-88eaa1cdf7b8")
+	)
+	(wire
+		(pts
+			(xy 83.82 57.15) (xy 83.82 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "050704e9-6049-407e-b496-654d380a03db")
+	)
+	(wire
+		(pts
+			(xy 83.82 38.1) (xy 101.6 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05165122-9a51-46c2-aaad-012bdc413211")
+	)
+	(wire
+		(pts
+			(xy 25.4 36.83) (xy 25.4 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "095dbf49-17fa-4cde-b43d-3f2671c739e4")
+	)
+	(wire
+		(pts
+			(xy 109.22 36.83) (xy 109.22 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d025c3a-b5b3-40d3-aa30-c6d6b1f39097")
+	)
+	(wire
+		(pts
+			(xy 101.6 57.15) (xy 101.6 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "153994a1-1c02-4c67-a048-8686f69974c8")
+	)
+	(wire
+		(pts
+			(xy 41.91 58.42) (xy 50.8 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1a7f5397-e067-441e-b9cd-fac3e17b4e60")
+	)
+	(wire
+		(pts
+			(xy 167.64 57.15) (xy 167.64 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f0ffa6d-b1eb-41be-b239-2465e5c589da")
+	)
+	(wire
+		(pts
+			(xy 142.24 58.42) (xy 149.86 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20610b9c-ca7f-45da-b007-26de93ff0023")
+	)
+	(wire
+		(pts
+			(xy 101.6 58.42) (xy 109.22 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25b7f19a-6c02-41d2-9ccd-33020faf7d6b")
+	)
+	(wire
+		(pts
+			(xy 218.44 38.1) (xy 226.06 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28576671-ea8b-4c9c-b79d-3fb88980046c")
+	)
+	(wire
+		(pts
+			(xy 121.92 58.42) (xy 129.54 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29730ae7-2266-49f7-9596-6f39c6c51274")
+	)
+	(wire
+		(pts
+			(xy 58.42 36.83) (xy 58.42 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29d9af4a-80c1-47fc-8d4a-c8582d205303")
+	)
+	(wire
+		(pts
+			(xy 175.26 58.42) (xy 193.04 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d39e440-990b-4f87-b5b1-107331f03276")
+	)
+	(wire
+		(pts
+			(xy 193.04 57.15) (xy 193.04 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30a87266-9586-45ed-9113-7315fc9cd1ba")
+	)
+	(wire
+		(pts
+			(xy 76.2 57.15) (xy 76.2 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3313ba0c-ca92-4491-9a8b-2e00540fe49a")
+	)
+	(wire
+		(pts
+			(xy 142.24 57.15) (xy 142.24 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34a6132c-7e55-4869-b0eb-34c9e3684310")
+	)
+	(wire
+		(pts
+			(xy 33.02 36.83) (xy 33.02 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "368ee782-bb4e-4623-b17f-18fd2cb035bb")
+	)
+	(wire
+		(pts
+			(xy 83.82 58.42) (xy 101.6 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3900d992-f6ea-49b0-9330-34de5d8c0767")
+	)
+	(wire
+		(pts
+			(xy 22.86 38.1) (xy 25.4 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a900589-3ce1-4b84-9e24-3d9b8af794ab")
+	)
+	(wire
+		(pts
+			(xy 109.22 58.42) (xy 121.92 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3aa6a1d0-7f59-4b01-bc81-c0b9b6c053c2")
+	)
+	(wire
+		(pts
+			(xy 129.54 57.15) (xy 129.54 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c5d5706-ad92-4544-8217-6d53c0cb82db")
+	)
+	(wire
+		(pts
+			(xy 50.8 36.83) (xy 50.8 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42a0886f-2ccf-4970-afaf-985f8047dfc3")
+	)
+	(wire
+		(pts
+			(xy 33.02 38.1) (xy 41.91 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4561c984-464e-4c30-b19f-95b1c5d8cb31")
+	)
+	(wire
+		(pts
+			(xy 200.66 36.83) (xy 200.66 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ef9713e-d459-4bcc-ae0d-996fd12b5104")
+	)
+	(wire
+		(pts
+			(xy 167.64 38.1) (xy 175.26 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f4320cf-a8f6-4c44-b100-f21724fd542d")
+	)
+	(wire
+		(pts
+			(xy 76.2 38.1) (xy 83.82 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "509d1cba-0951-46b1-8543-97938c7e0299")
+	)
+	(wire
+		(pts
+			(xy 109.22 57.15) (xy 109.22 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53353a7b-b5c6-4b80-847d-c6cb7e8435bc")
+	)
+	(wire
+		(pts
+			(xy 25.4 38.1) (xy 33.02 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5673c001-e52a-4e20-bab9-6bd75b26e24c")
+	)
+	(wire
+		(pts
+			(xy 238.76 38.1) (xy 246.38 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d40b2b2-685f-47bf-b567-cf0651ff063d")
+	)
+	(wire
+		(pts
+			(xy 50.8 38.1) (xy 58.42 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e54ef47-7043-402c-a93b-f023e2c2e323")
+	)
+	(wire
+		(pts
+			(xy 167.64 36.83) (xy 167.64 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f1a4ca6-77dd-4e53-b1fc-d828083d738e")
+	)
+	(wire
+		(pts
+			(xy 200.66 57.15) (xy 200.66 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fbcbc8a-857d-4568-b546-864917895aa7")
+	)
+	(wire
+		(pts
+			(xy 200.66 38.1) (xy 218.44 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "649e51b3-729a-4869-af87-9f21b192f6b3")
+	)
+	(wire
+		(pts
+			(xy 129.54 36.83) (xy 129.54 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68d222ea-190d-41fc-bc18-abc25a79e0ff")
+	)
+	(wire
+		(pts
+			(xy 167.64 58.42) (xy 175.26 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ba3e063-e1e0-4bec-83cf-4b0d651c907f")
+	)
+	(wire
+		(pts
+			(xy 193.04 38.1) (xy 200.66 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71807cbb-59e6-4c02-a01c-02ec62eea557")
+	)
+	(wire
+		(pts
+			(xy 101.6 36.83) (xy 101.6 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77637762-360d-409b-902c-f9d764fa9c97")
+	)
+	(wire
+		(pts
+			(xy 101.6 38.1) (xy 109.22 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "784c4419-84e8-4c5f-8e69-41bf24833496")
+	)
+	(wire
+		(pts
+			(xy 25.4 57.15) (xy 25.4 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "793b0fd5-a462-4e0b-9db5-d577d20826fd")
+	)
+	(wire
+		(pts
+			(xy 238.76 36.83) (xy 238.76 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "839d3318-c80c-4dbd-83c8-bd52ec7f280f")
+	)
+	(wire
+		(pts
+			(xy 58.42 38.1) (xy 76.2 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86308057-bbde-4ba2-9e94-3d99199d328f")
+	)
+	(wire
+		(pts
+			(xy 33.02 58.42) (xy 41.91 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87426e41-b455-43f2-bbdc-a6330a94dd7d")
+	)
+	(wire
+		(pts
+			(xy 58.42 57.15) (xy 58.42 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8bb4f7e5-fd5b-4c91-90ff-7478005a7982")
+	)
+	(wire
+		(pts
+			(xy 33.02 57.15) (xy 33.02 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e292d12-fe18-42be-a4c2-dfd0c0d118d6")
+	)
+	(wire
+		(pts
+			(xy 193.04 58.42) (xy 200.66 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93a9aaa1-7fd6-404e-8ad3-2b5805d4f7e0")
+	)
+	(wire
+		(pts
+			(xy 226.06 38.1) (xy 238.76 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96d9807a-44d6-4693-86e3-d5ba3d851f83")
+	)
+	(wire
+		(pts
+			(xy 175.26 57.15) (xy 175.26 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a490f49-5eb9-4811-b80c-26f2fe29dec7")
+	)
+	(wire
+		(pts
+			(xy 193.04 36.83) (xy 193.04 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9cd7fa86-7111-4900-9ad1-392937e3aa3d")
+	)
+	(wire
+		(pts
+			(xy 25.4 58.42) (xy 33.02 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9dc472f3-4d07-44a9-a284-0b3286501918")
+	)
+	(wire
+		(pts
+			(xy 41.91 38.1) (xy 41.91 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f895c21-550e-4b55-8d00-a2f55687f8ee")
+	)
+	(wire
+		(pts
+			(xy 83.82 36.83) (xy 83.82 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4a2b335-7002-4716-b931-a34a4906885f")
+	)
+	(wire
+		(pts
+			(xy 218.44 36.83) (xy 218.44 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab2e5f78-5042-45a1-8f4b-af7e643051a2")
+	)
+	(wire
+		(pts
+			(xy 41.91 38.1) (xy 50.8 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac9da7f3-73f8-4586-885c-094f82ea5661")
+	)
+	(wire
+		(pts
+			(xy 175.26 36.83) (xy 175.26 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0e98584-4790-419d-ba35-a0e5d96389e1")
+	)
+	(wire
+		(pts
+			(xy 246.38 36.83) (xy 246.38 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7af229c-13d9-434e-aa3d-36997c131ee3")
+	)
+	(wire
+		(pts
+			(xy 121.92 38.1) (xy 129.54 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be355ff8-843a-4ae3-9872-9ba67da9a135")
+	)
+	(wire
+		(pts
+			(xy 109.22 38.1) (xy 121.92 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4805622-77b4-4280-b4fd-760436ca0140")
+	)
+	(wire
+		(pts
+			(xy 50.8 57.15) (xy 50.8 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c63bfd79-12b1-4418-8fc7-4975b7b5933c")
+	)
+	(wire
+		(pts
+			(xy 175.26 38.1) (xy 193.04 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8c48eb2-1d72-4115-9722-a739670e3e72")
+	)
+	(wire
+		(pts
+			(xy 129.54 58.42) (xy 142.24 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8278e79-d9cb-46ab-8914-ac5d932625e3")
+	)
+	(wire
+		(pts
+			(xy 76.2 36.83) (xy 76.2 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc0b4b1d-4f56-4a01-912b-31c8b0824bb4")
+	)
+	(wire
+		(pts
+			(xy 142.24 38.1) (xy 149.86 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e00d8de2-fceb-44bd-9116-1050b4806023")
+	)
+	(wire
+		(pts
+			(xy 149.86 58.42) (xy 167.64 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5bf01b9-6daf-4075-90fe-cfd11200b041")
+	)
+	(wire
+		(pts
+			(xy 149.86 57.15) (xy 149.86 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e799878e-96cd-4e2c-b893-5cf1882a493d")
+	)
+	(wire
+		(pts
+			(xy 58.42 58.42) (xy 76.2 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8b7adea-0f9c-42ed-a9e2-ceeb3aed8b63")
+	)
+	(wire
+		(pts
+			(xy 121.92 57.15) (xy 121.92 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebea04b7-40ca-4141-92c7-f24d8464f809")
+	)
+	(wire
+		(pts
+			(xy 50.8 58.42) (xy 58.42 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec1864f4-56a4-4879-b3e7-d8781422b4cd")
+	)
+	(wire
+		(pts
+			(xy 76.2 58.42) (xy 83.82 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0afb139-6334-41d5-9942-aea83c1cc774")
+	)
+	(wire
+		(pts
+			(xy 226.06 36.83) (xy 226.06 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f365dcc8-8013-4467-ac6d-c874c14f2992")
+	)
+	(wire
+		(pts
+			(xy 142.24 36.83) (xy 142.24 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f465a4ce-658f-4798-95e8-ac05e8e3b75e")
+	)
+	(wire
+		(pts
+			(xy 149.86 38.1) (xy 167.64 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4d14ee9-dc55-4fc8-80f3-1c6494005682")
+	)
+	(wire
+		(pts
+			(xy 149.86 36.83) (xy 149.86 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa04ef38-e36f-4104-9e22-fb7e7e671cf1")
+	)
+	(wire
+		(pts
+			(xy 129.54 38.1) (xy 142.24 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbbc465d-2ecd-4b87-82d6-9340a8327c92")
+	)
+	(wire
+		(pts
+			(xy 121.92 36.83) (xy 121.92 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff0db206-c7ab-4290-b49e-459bf8c98702")
+	)
+	(hierarchical_label "Potentiel"
+		(shape input)
+		(at 22.86 38.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "36b804b7-246a-4374-8e9e-679fba433815")
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 121.92 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "023cf973-afa0-4534-95f3-4a6bb9da8ce6")
+		(property "Reference" "J47"
+			(at 120.65 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 125.222 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 121.92 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 121.92 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 121.92 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "da0b985e-fc30-4df4-b8cf-f36f34a7bd1a")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J47")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J72")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 142.24 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "034cfd1e-b8b3-4c57-b60f-5e96e6c38763")
+		(property "Reference" "J49"
+			(at 140.97 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 145.542 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 142.24 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 142.24 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 142.24 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "770b0960-c302-4287-ae94-e8d7da3ce5f2")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J49")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J76")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 83.82 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "059a410e-3ddf-478c-b890-16c7d4861c8d")
+		(property "Reference" "J24"
+			(at 82.55 28.956 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 87.122 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 83.82 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 83.82 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 83.82 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a2bee7a1-cb2c-4c2c-a67d-845af8aacb94")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J24")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J65")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 167.64 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "0c651e63-1d7f-42b8-a98b-b842fdaef42f")
+		(property "Reference" "J31"
+			(at 166.37 28.956 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 170.942 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 167.64 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 167.64 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 167.64 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ed4e7d3f-24da-4272-9349-8e3de6d1b721")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J31")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J79")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 193.04 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "10e7bacc-58c1-4f03-9193-598bbae81faa")
+		(property "Reference" "J53"
+			(at 191.77 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 196.342 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 193.04 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 193.04 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 193.04 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0c7fdc86-a83c-4a9d-a35b-f4811664baa7")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J53")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J84")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 200.66 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "12ba16ba-75e9-4e40-ab93-50cf4e326685")
+		(property "Reference" "J34"
+			(at 199.39 28.956 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 203.962 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 200.66 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 200.66 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 200.66 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d103ddd8-2703-4ba0-9091-5e6fd8ceb815")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J34")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J85")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 129.54 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "14a1454b-5749-426d-a8de-cbf07de00903")
+		(property "Reference" "J48"
+			(at 128.27 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 132.842 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 129.54 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 129.54 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 129.54 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "639ac486-5c01-4927-b9c2-81132f3be8c1")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J48")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J74")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 101.6 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "20987605-8f15-4211-84f0-d2446db61e77")
+		(property "Reference" "J45"
+			(at 100.33 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 104.902 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 101.6 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 101.6 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 101.6 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fd190921-ad5a-4d19-a2e9-0db3d63517e1")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J45")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J68")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 246.38 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "21edfd92-ba74-491d-baff-daef7d249ea8")
+		(property "Reference" "J38"
+			(at 245.11 28.956 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 249.682 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 246.38 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 246.38 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 246.38 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "746ce379-efbb-4dae-acce-42e4ad543848")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J38")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J90")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 50.8 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "2c567cd9-6c89-4d68-8213-4b43c27300d8")
+		(property "Reference" "J41"
+			(at 49.53 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 54.102 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 50.8 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 50.8 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 50.8 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "31afa5a0-f90b-441b-924b-4303c4610eb8")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J41")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J60")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 121.92 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "32772314-018f-4fb0-8fe6-f933f2347d85")
+		(property "Reference" "J27"
+			(at 120.65 28.956 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 125.222 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 121.92 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 121.92 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 121.92 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "14825e3b-e4d0-497f-8a3b-0b8dc16a303e")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J27")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J71")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 25.4 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "3c3f1808-87bb-404d-adb3-4124c584766e")
+		(property "Reference" "J19"
+			(at 24.13 28.956 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 28.702 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 25.4 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 25.4 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3d98574a-4c05-4e42-88b7-19ae67110cf0")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J19")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J55")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 129.54 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "3ffa8a08-a71f-434a-b7e0-b8327ffa325b")
+		(property "Reference" "J28"
+			(at 128.27 28.956 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 132.842 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 129.54 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 129.54 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 129.54 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a551d77e-0b68-41aa-8e17-b96ef2d2fbf2")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J28")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J73")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 83.82 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "411816d2-b4af-470f-9fbb-2a148a8d0c23")
+		(property "Reference" "J44"
+			(at 82.55 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 87.122 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 83.82 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 83.82 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 83.82 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "568b86b2-77f8-4510-974b-b85dbb8f0b72")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J44")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J66")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 25.4 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "488627da-c2f8-49c2-9fc7-3ccf9180b656")
+		(property "Reference" "J39"
+			(at 24.13 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 28.702 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 25.4 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 25.4 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5a46f344-1ea7-47ee-b404-846c260d46e7")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J39")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J56")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 167.64 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "5df0c89a-af93-4ca3-9f3b-56e3ca75b50b")
+		(property "Reference" "J51"
+			(at 166.37 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 170.942 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 167.64 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 167.64 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 167.64 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "14048fcd-d2ec-43d2-b824-dc5fde75a18c")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J51")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J80")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 109.22 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "7248aebb-1540-44ca-b326-ef24037b57c4")
+		(property "Reference" "J26"
+			(at 107.95 28.956 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 112.522 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 109.22 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 109.22 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 109.22 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5a9b7330-3cb5-4981-b697-4bef40e98988")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J26")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J69")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 101.6 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "781b3a31-337c-4aad-a229-ba41eae0971c")
+		(property "Reference" "J25"
+			(at 100.33 28.956 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 104.902 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 101.6 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 101.6 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 101.6 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6a8958b2-e12d-4a19-a2a9-d01e3a671773")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J25")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J67")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 76.2 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "7a38433c-9cc4-41f3-a21c-f3734d6de2de")
+		(property "Reference" "J23"
+			(at 74.93 28.956 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 79.502 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 76.2 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 76.2 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 76.2 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4d42c2be-51c6-4b17-a3a7-5e990fe88bfd")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J23")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J63")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 226.06 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "8618a8d8-f17e-46e9-b1a9-843065fc6363")
+		(property "Reference" "J36"
+			(at 224.79 28.956 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 229.362 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 226.06 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 226.06 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 226.06 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "307f7dba-c313-4ff3-b081-26f6ed007928")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J36")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J88")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 200.66 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "92417986-6526-4095-b0ea-fc6ee2841d52")
+		(property "Reference" "J54"
+			(at 199.39 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 203.962 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 200.66 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 200.66 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 200.66 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1237fa15-f029-4264-9092-ba6cb9938e9b")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J54")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J86")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 175.26 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "96c11c1b-a965-4ade-8d90-6ed820b7d16d")
+		(property "Reference" "J52"
+			(at 173.99 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 178.562 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 175.26 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 175.26 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 175.26 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3d9fbe37-af79-4a7a-80d7-77dcf7c60674")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J52")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J82")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 50.8 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "a4aeb8f0-eff1-42af-804c-7449e0603691")
+		(property "Reference" "J21"
+			(at 49.53 28.956 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 54.102 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 50.8 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 50.8 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 50.8 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dfc5ff4f-c682-45e2-bf91-bf98b6ee6f78")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J21")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J59")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 33.02 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "b0382632-e038-44f1-8b62-6545e869fc6e")
+		(property "Reference" "J20"
+			(at 31.75 28.956 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 36.322 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 33.02 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 33.02 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 33.02 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "054a399f-e423-48eb-bc37-fbbcb04e98ef")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J20")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J57")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 76.2 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "b28725b2-6dbe-4a09-9270-d966beb5fcbf")
+		(property "Reference" "J43"
+			(at 74.93 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 79.502 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 76.2 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 76.2 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 76.2 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "46efd9e3-21c8-40d1-b57f-8a87705c5ada")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J43")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J64")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 149.86 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "bcd25c9b-0eaf-4b49-8017-3bc03fbe4373")
+		(property "Reference" "J50"
+			(at 148.59 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 153.162 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 149.86 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 149.86 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 149.86 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0b35b7d0-8282-4f51-8d88-33076936feec")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J50")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J78")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 193.04 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "bdc145e9-8d66-46d4-8dc6-a69bd8239cb4")
+		(property "Reference" "J33"
+			(at 191.77 28.956 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 196.342 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 193.04 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 193.04 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 193.04 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e9eb728a-74c8-4b6b-9b21-a73449c05efc")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J33")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J83")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 58.42 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "be011824-dbd7-4682-9ad7-b990db9fc07d")
+		(property "Reference" "J42"
+			(at 57.15 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 61.722 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 58.42 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 58.42 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 58.42 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fbe8f3ec-194f-494a-bb3d-b367d0ecb061")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J42")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J62")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 58.42 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "c00056ef-8736-4e73-980d-2f5caaa33c71")
+		(property "Reference" "J22"
+			(at 57.15 28.956 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 61.722 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 58.42 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 58.42 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 58.42 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "721973f1-c3df-4d87-a601-592505969cae")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J22")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J61")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 238.76 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "c1a229cc-816a-42ac-b1ea-640df24e50dd")
+		(property "Reference" "J37"
+			(at 237.49 28.956 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 242.062 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 238.76 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 238.76 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 238.76 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "92053796-9342-41aa-b08c-f49fb59729df")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J37")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J89")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 33.02 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "c2560517-a9b3-4515-877c-28b3520e9a6e")
+		(property "Reference" "J40"
+			(at 31.75 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 36.322 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 33.02 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 33.02 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 33.02 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cca43b46-a065-4472-be09-cb9f2324fa81")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J40")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J58")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 218.44 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "c61e78a7-f422-44bf-9d49-4d8c86297a31")
+		(property "Reference" "J35"
+			(at 217.17 28.956 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 221.742 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 218.44 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 218.44 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 218.44 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e84c55b2-ba18-4a74-970a-4241f0b57057")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J35")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J87")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 142.24 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "ce0a4537-636b-4958-9299-2156f5308461")
+		(property "Reference" "J29"
+			(at 140.97 28.956 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 145.542 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 142.24 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 142.24 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 142.24 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "80f25764-d4fc-4907-9eed-fad48a81ff20")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J29")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J75")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 149.86 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "d8264545-1442-41c3-a3d3-e04719e93717")
+		(property "Reference" "J30"
+			(at 148.59 28.956 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 153.162 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 149.86 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 149.86 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 149.86 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0ea38a4b-4868-4890-b443-856e8813d30d")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J30")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J77")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 109.22 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "ddb1c724-2759-4f2e-a639-09ba32dc2c22")
+		(property "Reference" "J46"
+			(at 107.95 49.276 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 112.522 46.482 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 109.22 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 109.22 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 109.22 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "29e2ece0-e67a-4f71-89f3-e5f323f3c63b")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J46")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J70")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 175.26 31.75 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "f53dd56e-0865-4303-b00f-9ea6b3410f2d")
+		(property "Reference" "J32"
+			(at 173.99 28.956 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Pastille"
+			(at 178.562 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Chimere_comps:Pastille"
+			(at 175.26 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 175.26 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "~"
+			(at 175.26 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7fcb216c-611c-4301-a750-b53caa55aa8c")
+		)
+		(instances
+			(project "Ingonde_10x10"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/137b2945-7ebc-4ea7-b719-0eb35674141f"
+					(reference "J32")
+					(unit 1)
+				)
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/487e238e-f291-4187-ba32-560520a51ceb"
+					(reference "J81")
+					(unit 1)
+				)
+			)
+		)
+	)
+)
