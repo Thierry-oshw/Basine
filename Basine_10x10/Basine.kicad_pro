@@ -653,6 +653,12 @@
       "Net-(J16-Pin_1)": [
         "signal_x2"
       ],
+      "Net-(J17-Pin_1)": [
+        "signal_x2"
+      ],
+      "Net-(J18-Pin_1)": [
+        "signal_x2"
+      ],
       "Net-(J5-Pin_1)": [
         "signal_x2"
       ],
@@ -933,14 +939,6 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       "Root"
-    ],
-    [
-      "c0a1413d-0c72-4618-8b9b-4221cc6761bc",
-      "s_ALIM_5V"
-    ],
-    [
-      "40bb400d-0185-4b1e-9bd3-e465658181b5",
-      "s_CAN"
     ]
   ],
   "text_variables": {}
