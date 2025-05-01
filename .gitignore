@@ -28,3 +28,5 @@ fp-info-cache
 *.xml
 *.csv
 Basine_10x10/~Basine.kicad_sch.lck
+Ingonde_10x10/~Ingonde_10x10.kicad_pcb.lck
+Ingonde_10x10/~Ingonde_10x10.kicad_sch.lck
