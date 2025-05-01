@@ -674,6 +674,9 @@
       "Net-(J9-Pin_1)": [
         "signal_x2"
       ],
+      "VIN": [
+        "alim_x2"
+      ],
       "pin1": "alim",
       "pin2": "alim"
     },
