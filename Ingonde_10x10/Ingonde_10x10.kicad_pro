@@ -822,7 +822,7 @@
           "show": true
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Value",
           "name": "Value",
           "show": true
@@ -831,7 +831,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -846,16 +846,16 @@
           "show": true
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -879,14 +879,14 @@
           "group_by": false,
           "label": "Description",
           "name": "Description",
-          "show": false
+          "show": true
         }
       ],
-      "filter_string": "",
-      "group_symbols": true,
+      "filter_string": "J",
+      "group_symbols": false,
       "include_excluded_from_bom": false,
       "name": "",
-      "sort_asc": true,
+      "sort_asc": false,
       "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
@@ -1019,6 +1019,54 @@
     [
       "9f2139d8-05bb-43da-896a-fd98c7011b5c",
       "Rangee_20"
+    ],
+    [
+      "330485f9-ed48-47bf-a0a1-35ce72397517",
+      "Rangee_21"
+    ],
+    [
+      "d21d8215-ddc4-4a3c-b95c-34a223f07307",
+      "Rangee_22"
+    ],
+    [
+      "d2ec5d52-fcdd-412c-a0e6-637bf1cfa917",
+      "Rangee_23"
+    ],
+    [
+      "7ce464c0-addd-4d61-a913-ba9b569b5b32",
+      "Rangee_24"
+    ],
+    [
+      "d2d8208b-2410-4d44-8cc5-12b252745643",
+      "Rangee_25"
+    ],
+    [
+      "1c1dd854-70ed-4499-9003-b6371bd4e4bd",
+      "Rangee_26"
+    ],
+    [
+      "afa4a325-c6ca-4eb2-a8b2-01bc1df6d12d",
+      "Rangee_27"
+    ],
+    [
+      "4a44a7eb-924b-453c-b9d6-2ff80628f66e",
+      "Rangee_28"
+    ],
+    [
+      "15177344-1eba-4ff3-828d-60a3a789b06a",
+      "Rangee_29"
+    ],
+    [
+      "a9a28997-81e2-411c-87f8-bcb34a1c0e5c",
+      "Rangee_30"
+    ],
+    [
+      "8eba0050-b071-4faf-83c0-25b1a530e07b",
+      "Rangee_31"
+    ],
+    [
+      "f7b28391-5ea5-4f61-8eb9-7ee058d96718",
+      "Rangee_32"
     ]
   ],
   "text_variables": {}

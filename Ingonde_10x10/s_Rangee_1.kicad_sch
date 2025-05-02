@@ -1107,7 +1107,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 121.92 52.07 0)
 			(effects
 				(font
@@ -1132,6 +1132,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 121.92 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 121.92 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 121.92 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -1177,7 +1201,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 142.24 52.07 0)
 			(effects
 				(font
@@ -1202,6 +1226,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 142.24 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 142.24 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 142.24 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -1247,7 +1295,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 83.82 31.75 0)
 			(effects
 				(font
@@ -1272,6 +1320,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 83.82 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 83.82 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 83.82 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -1317,7 +1389,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 167.64 31.75 0)
 			(effects
 				(font
@@ -1342,6 +1414,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 167.64 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 167.64 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 167.64 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -1387,7 +1483,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 193.04 52.07 0)
 			(effects
 				(font
@@ -1412,6 +1508,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 193.04 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 193.04 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 193.04 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -1457,7 +1577,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 200.66 31.75 0)
 			(effects
 				(font
@@ -1482,6 +1602,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 200.66 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 200.66 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 200.66 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -1527,7 +1671,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 129.54 52.07 0)
 			(effects
 				(font
@@ -1552,6 +1696,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 129.54 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 129.54 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 129.54 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -1597,7 +1765,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 101.6 52.07 0)
 			(effects
 				(font
@@ -1622,6 +1790,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 101.6 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 101.6 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 101.6 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -1667,7 +1859,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 246.38 31.75 0)
 			(effects
 				(font
@@ -1692,6 +1884,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 246.38 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 246.38 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 246.38 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -1737,7 +1953,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 50.8 52.07 0)
 			(effects
 				(font
@@ -1762,6 +1978,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 50.8 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 50.8 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 50.8 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -1807,7 +2047,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 121.92 31.75 0)
 			(effects
 				(font
@@ -1832,6 +2072,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 121.92 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 121.92 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 121.92 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -1877,7 +2141,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 25.4 31.75 0)
 			(effects
 				(font
@@ -1902,6 +2166,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 25.4 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 25.4 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 25.4 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -1947,7 +2235,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 129.54 31.75 0)
 			(effects
 				(font
@@ -1972,6 +2260,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 129.54 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 129.54 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 129.54 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2017,7 +2329,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 83.82 52.07 0)
 			(effects
 				(font
@@ -2042,6 +2354,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 83.82 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 83.82 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 83.82 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2087,7 +2423,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 25.4 52.07 0)
 			(effects
 				(font
@@ -2112,6 +2448,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 25.4 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 25.4 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 25.4 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2157,7 +2517,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 167.64 52.07 0)
 			(effects
 				(font
@@ -2182,6 +2542,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 167.64 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 167.64 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 167.64 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2227,7 +2611,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 109.22 31.75 0)
 			(effects
 				(font
@@ -2252,6 +2636,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 109.22 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 109.22 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 109.22 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2297,7 +2705,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 101.6 31.75 0)
 			(effects
 				(font
@@ -2322,6 +2730,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 101.6 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 101.6 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 101.6 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2367,7 +2799,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 76.2 31.75 0)
 			(effects
 				(font
@@ -2392,6 +2824,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 76.2 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 76.2 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 76.2 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2437,7 +2893,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 226.06 31.75 0)
 			(effects
 				(font
@@ -2462,6 +2918,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 226.06 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 226.06 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 226.06 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2507,7 +2987,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 200.66 52.07 0)
 			(effects
 				(font
@@ -2532,6 +3012,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 200.66 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 200.66 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 200.66 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2577,7 +3081,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 175.26 52.07 0)
 			(effects
 				(font
@@ -2602,6 +3106,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 175.26 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 175.26 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 175.26 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2647,7 +3175,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 50.8 31.75 0)
 			(effects
 				(font
@@ -2672,6 +3200,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 50.8 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 50.8 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 50.8 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2717,7 +3269,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 33.02 31.75 0)
 			(effects
 				(font
@@ -2742,6 +3294,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 33.02 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 33.02 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 33.02 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2787,7 +3363,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 76.2 52.07 0)
 			(effects
 				(font
@@ -2812,6 +3388,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 76.2 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 76.2 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 76.2 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2857,7 +3457,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 149.86 52.07 0)
 			(effects
 				(font
@@ -2882,6 +3482,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 149.86 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 149.86 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 149.86 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2927,7 +3551,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 193.04 31.75 0)
 			(effects
 				(font
@@ -2952,6 +3576,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 193.04 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 193.04 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 193.04 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -2997,7 +3645,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 58.42 52.07 0)
 			(effects
 				(font
@@ -3022,6 +3670,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 58.42 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 58.42 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 58.42 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3067,7 +3739,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 58.42 31.75 0)
 			(effects
 				(font
@@ -3092,6 +3764,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 58.42 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 58.42 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 58.42 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3137,7 +3833,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 238.76 31.75 0)
 			(effects
 				(font
@@ -3162,6 +3858,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 238.76 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 238.76 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 238.76 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3207,7 +3927,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 33.02 52.07 0)
 			(effects
 				(font
@@ -3232,6 +3952,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 33.02 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 33.02 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 33.02 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3277,7 +4021,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 218.44 31.75 0)
 			(effects
 				(font
@@ -3302,6 +4046,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 218.44 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 218.44 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 218.44 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3347,7 +4115,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 142.24 31.75 0)
 			(effects
 				(font
@@ -3372,6 +4140,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 142.24 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 142.24 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 142.24 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3417,7 +4209,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 149.86 31.75 0)
 			(effects
 				(font
@@ -3442,6 +4234,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 149.86 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 149.86 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 149.86 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3487,7 +4303,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 109.22 52.07 0)
 			(effects
 				(font
@@ -3512,6 +4328,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 109.22 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 109.22 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 109.22 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3557,7 +4397,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:Pastille"
+		(property "Footprint" "Chimere_comps:Pastille_carree"
 			(at 175.26 31.75 0)
 			(effects
 				(font
@@ -3582,6 +4422,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC" ""
+			(at 175.26 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 175.26 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 175.26 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
