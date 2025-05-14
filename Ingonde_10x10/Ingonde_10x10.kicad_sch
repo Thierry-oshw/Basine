@@ -1686,7 +1686,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:Conn_bornier_et_wago"
 			(at 58.42 25.4 0)
 			(effects
 				(font
