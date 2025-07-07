@@ -10,7 +10,7 @@
 		(rev "0")
 	)
 	(lib_symbols
-		(symbol "Allumette_1"
+		(symbol "Chimere_mods:Allumette"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -57,7 +57,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "Allumette_1_0_1"
+			(symbol "Allumette_0_1"
 				(rectangle
 					(start -5.08 3.81)
 					(end 5.08 -6.35)
@@ -70,7 +70,7 @@
 					)
 				)
 			)
-			(symbol "Allumette_1_1_1"
+			(symbol "Allumette_1_1"
 				(pin passive line
 					(at -7.62 2.54 0)
 					(length 2.54)
@@ -136,6 +136,253 @@
 						)
 					)
 					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at -1.27 2.54 180)
+					(length 2.54)
+					(hide yes)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at -1.27 1.27 180)
+					(length 2.54)
+					(hide yes)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at -1.27 0 180)
+					(length 2.54)
+					(hide yes)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at -1.27 -1.27 180)
+					(length 2.54)
+					(hide yes)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at -1.27 -2.54 180)
+					(length 2.54)
+					(hide yes)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at -1.27 -3.81 180)
+					(length 2.54)
+					(hide yes)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at -1.27 -5.08 180)
+					(length 2.54)
+					(hide yes)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 3.81 2.54 180)
+					(length 2.54)
+					(hide yes)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 3.81 1.27 180)
+					(length 2.54)
+					(hide yes)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 3.81 0 180)
+					(length 2.54)
+					(hide yes)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 3.81 -1.27 180)
+					(length 2.54)
+					(hide yes)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 3.81 -2.54 180)
+					(length 2.54)
+					(hide yes)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 3.81 -5.08 180)
+					(length 2.54)
+					(hide yes)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -248,11 +495,9 @@
 				)
 			)
 			(symbol "Ultrogothe_0_1"
-				(polyline
-					(pts
-						(xy -10.16 27.94) (xy -10.16 30.48) (xy -1.27 30.48) (xy 0 30.48) (xy 0 27.94) (xy 10.16 27.94)
-						(xy 10.16 -27.94) (xy -10.16 -27.94) (xy -10.16 27.94)
-					)
+				(rectangle
+					(start -10.16 25.4)
+					(end 10.16 -29.21)
 					(stroke
 						(width 0)
 						(type default)
@@ -616,150 +861,6 @@
 						)
 					)
 					(number "20"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at -8.89 33.02 270)
-					(length 2.54)
-					(name "3V3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "48"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -6.35 33.02 270)
-					(length 2.54)
-					(name "SWDIO"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "47"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin bidirectional line
-					(at -3.81 33.02 270)
-					(length 2.54)
-					(name "SWCLK"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "46"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -1.27 33.02 270)
-					(length 2.54)
-					(name "0V"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "45"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 1.27 30.48 270)
-					(length 2.54)
-					(name "SWO"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "44"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 3.81 30.48 270)
-					(length 2.54)
-					(name "nRST"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "43"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 6.35 30.48 270)
-					(length 2.54)
-					(name "TX"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "42"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 8.89 30.48 270)
-					(length 2.54)
-					(name "RX"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "41"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1560,6 +1661,12 @@
 		(color 0 0 0 0)
 		(uuid "862ce7b3-2099-4246-b0bf-0292b8f2ddb4")
 	)
+	(junction
+		(at 143.51 177.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c4bb2e8c-4461-4c1f-aa41-08370f4e352a")
+	)
 	(no_connect
 		(at 102.87 160.02)
 		(uuid "064e0058-d1b8-41ae-8f3b-83c8727e5d14")
@@ -1575,10 +1682,6 @@
 	(no_connect
 		(at 95.25 160.02)
 		(uuid "1d558d36-5b71-480c-99c4-23791490870f")
-	)
-	(no_connect
-		(at 86.36 143.51)
-		(uuid "1e961a62-4276-48e6-90b3-4b6a094ea4a6")
 	)
 	(no_connect
 		(at 95.25 134.62)
@@ -1617,20 +1720,8 @@
 		(uuid "4d527f28-6caf-4564-889c-cff915d75080")
 	)
 	(no_connect
-		(at 86.36 138.43)
-		(uuid "5f91c12d-bf89-4861-a726-ed70033216e2")
-	)
-	(no_connect
-		(at 83.82 151.13)
-		(uuid "71aaf9a3-45f4-4c03-ba93-abc1d93d75ae")
-	)
-	(no_connect
 		(at 107.95 160.02)
 		(uuid "74f5e501-11b7-4bf0-aa15-a39231f0ce52")
-	)
-	(no_connect
-		(at 83.82 156.21)
-		(uuid "78db367e-8408-4c4d-aac0-8ca6337f5a33")
 	)
 	(no_connect
 		(at 120.65 160.02)
@@ -1641,10 +1732,6 @@
 		(uuid "902d9215-fd2c-487e-9c8a-9ff27a1e5aca")
 	)
 	(no_connect
-		(at 83.82 148.59)
-		(uuid "a32fc23f-5d54-4564-be4f-4f400e58b27d")
-	)
-	(no_connect
 		(at 123.19 160.02)
 		(uuid "b9a99128-77e0-4d3c-a49f-da08e3a1e573")
 	)
@@ -1653,20 +1740,8 @@
 		(uuid "cbbfd6d3-eae7-4d50-9a9b-458f75864003")
 	)
 	(no_connect
-		(at 83.82 153.67)
-		(uuid "d63a754f-6fe5-4ba8-8019-e1edbc65229d")
-	)
-	(no_connect
 		(at 115.57 160.02)
 		(uuid "e0e6b802-92fa-445d-a475-12921507da63")
-	)
-	(no_connect
-		(at 86.36 146.05)
-		(uuid "e4b1c060-43a1-49d9-93b9-8e8881fe4031")
-	)
-	(no_connect
-		(at 86.36 140.97)
-		(uuid "f17c57ee-394a-4e00-a2ea-5b136aa77a3b")
 	)
 	(no_connect
 		(at 135.89 160.02)
@@ -2158,7 +2233,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 161.29) (xy 147.32 161.29)
+			(xy 143.51 161.29) (xy 148.59 161.29)
 		)
 		(stroke
 			(width 0)
@@ -2888,6 +2963,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 177.8) (xy 148.59 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aff84af9-8eb5-4bc0-b2f6-c8f1e8e879b7")
+	)
+	(wire
+		(pts
 			(xy 115.57 83.82) (xy 115.57 90.17)
 		)
 		(stroke
@@ -3008,6 +3093,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 179.07) (xy 143.51 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0fe8e28-5638-432c-8a16-5090b65cf637")
+	)
+	(wire
+		(pts
 			(xy 59.69 58.42) (xy 59.69 60.96)
 		)
 		(stroke
@@ -3045,6 +3140,16 @@
 			(type default)
 		)
 		(uuid "cab9f477-1511-42c6-b90a-d33803dd84e2")
+	)
+	(wire
+		(pts
+			(xy 143.51 177.8) (xy 143.51 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cacecb0a-008b-4083-bd3e-7feaf83db658")
 	)
 	(wire
 		(pts
@@ -3188,7 +3293,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 162.56) (xy 143.51 161.29)
+			(xy 143.51 161.29) (xy 143.51 168.91)
 		)
 		(stroke
 			(width 0)
@@ -4082,7 +4187,7 @@
 	)
 	(global_label "3V3"
 		(shape input)
-		(at 143.51 162.56 270)
+		(at 143.51 179.07 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4092,7 +4197,7 @@
 		)
 		(uuid "419da62e-d43b-45d3-9a8e-20259e7c6c42")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.51 169.0528 90)
+			(at 143.51 185.5628 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6306,7 +6411,30 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 147.32 161.29 0)
+		(at 148.59 177.8 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ae02b14c-c940-4b2a-ac36-bb54ccdaa1bc")
+		(property "Netclass" "alim"
+			(at 149.2885 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 148.59 161.29 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6316,7 +6444,7 @@
 		)
 		(uuid "f5819520-f8cc-4195-b088-082a32272da6")
 		(property "Netclass" "alim"
-			(at 148.0185 158.75 0)
+			(at 149.2885 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6353,7 +6481,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:Conn_bornier_et_wago"
 			(at 229.87 24.13 0)
 			(effects
 				(font
@@ -6419,7 +6547,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:Conn_bornier_et_wago"
 			(at 90.17 24.13 0)
 			(effects
 				(font
@@ -6459,12 +6587,11 @@
 		)
 	)
 	(symbol
-		(lib_name "Allumette_1")
 		(lib_id "Chimere_mods:Allumette")
 		(at 262.89 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "1196a37e-bfbb-46a8-9982-18850ee901e2")
@@ -6534,6 +6661,45 @@
 		(pin "18"
 			(uuid "6faac397-ec51-418d-a6cc-52a6e7c3f965")
 		)
+		(pin "6"
+			(uuid "509d6474-6ab7-4723-9d1b-822eaaedf754")
+		)
+		(pin "5"
+			(uuid "5f656db5-e5d1-4583-a462-05245b0182f0")
+		)
+		(pin "10"
+			(uuid "e83601cc-f7d9-4056-90ea-0b48149eeceb")
+		)
+		(pin "14"
+			(uuid "062ae4e0-a615-4fcd-bf84-28d5f07ef13c")
+		)
+		(pin "7"
+			(uuid "21b832d6-544e-471f-b7e8-d20cb4a667e9")
+		)
+		(pin "9"
+			(uuid "f50e1c79-4464-4126-9c2b-217056c92130")
+		)
+		(pin "8"
+			(uuid "9d6ddbee-9e08-4fe4-a338-20cace3f3647")
+		)
+		(pin "12"
+			(uuid "7e898d66-e6c7-4c68-b8ac-c7aff18eaff6")
+		)
+		(pin "16"
+			(uuid "368e4257-c81a-4c0e-9982-d0e950573182")
+		)
+		(pin "11"
+			(uuid "8be88015-5a56-4783-89db-f8360e6f8fe8")
+		)
+		(pin "17"
+			(uuid "bea6a66b-b985-445a-b8f7-13b4b21a857b")
+		)
+		(pin "15"
+			(uuid "f39e8e1b-e08d-48d3-b223-367d371ae1b9")
+		)
+		(pin "13"
+			(uuid "53ea1226-b572-4179-9be9-9b4f346c13f3")
+		)
 		(instances
 			(project "Basine"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -6570,7 +6736,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:Conn_bornier_et_wago"
 			(at 267.97 24.13 0)
 			(effects
 				(font
@@ -6682,13 +6848,13 @@
 		(at 116.84 147.32 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1fd8b7f3-613c-420e-95a7-6944caa03ff3")
 		(property "Reference" "U19"
-			(at 146.05 146.6849 90)
+			(at 147.32 146.6849 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6697,7 +6863,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 146.05 148.59 90)
+			(at 147.32 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6774,9 +6940,6 @@
 		(pin "35"
 			(uuid "b485b982-b71d-427b-8675-c0088e60f014")
 		)
-		(pin "48"
-			(uuid "e43c3bac-c1f3-4cf8-9788-5d7defb9c01b")
-		)
 		(pin "4"
 			(uuid "c308561d-309e-4bcc-b80d-2cd47430b5f2")
 		)
@@ -6798,12 +6961,6 @@
 		(pin "26"
 			(uuid "93fabb19-8ccf-4936-b6c9-f161c5c8ae4f")
 		)
-		(pin "41"
-			(uuid "8f74564d-de9d-41e0-83bf-f1ce89de0d75")
-		)
-		(pin "47"
-			(uuid "dbd2ceca-57e4-4d5c-8e0e-ef50171bb31f")
-		)
 		(pin "40"
 			(uuid "a1f78ba3-3c3b-40b5-8321-80f2b70d04d9")
 		)
@@ -6819,17 +6976,8 @@
 		(pin "21"
 			(uuid "af7a9db0-1500-4f3c-8f0a-0587cad68282")
 		)
-		(pin "43"
-			(uuid "6d421949-8432-4c7c-8ac8-9503fb660835")
-		)
-		(pin "44"
-			(uuid "0976a374-30d4-4c77-9f41-7f3f8902cd21")
-		)
 		(pin "27"
 			(uuid "539cf2c3-9713-4d32-8d1b-00930444c905")
-		)
-		(pin "45"
-			(uuid "6f90eaed-d702-4655-bad2-1c9fafeb8a03")
 		)
 		(pin "25"
 			(uuid "42b8651a-9eb2-4dd3-8aa3-90735209075a")
@@ -6855,9 +7003,6 @@
 		(pin "37"
 			(uuid "83aeab25-1b4c-47b5-931e-d622806673a5")
 		)
-		(pin "42"
-			(uuid "cd01c03e-e526-4f8e-bf57-e514ce1a050b")
-		)
 		(pin "8"
 			(uuid "a62282eb-8553-4c49-b324-cf8ae27a03d7")
 		)
@@ -6873,9 +7018,6 @@
 		(pin "22"
 			(uuid "5a693e1e-8918-4429-8e24-e0cff30e8ed9")
 		)
-		(pin "46"
-			(uuid "6d7fc5bf-71f5-4c52-a568-ca92fb98a17e")
-		)
 		(instances
 			(project ""
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -6886,12 +7028,11 @@
 		)
 	)
 	(symbol
-		(lib_name "Allumette_1")
 		(lib_id "Chimere_mods:Allumette")
 		(at 59.69 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "21f9012c-8302-4900-ad0c-5511df2f597f")
@@ -6960,6 +7101,45 @@
 		)
 		(pin "18"
 			(uuid "b15f8eca-2f57-4236-8da3-7113f632ac70")
+		)
+		(pin "5"
+			(uuid "227f9489-0886-45b5-b0e2-e2ee948148a0")
+		)
+		(pin "6"
+			(uuid "b082defc-8aee-47ba-b392-bc0bcc901d71")
+		)
+		(pin "10"
+			(uuid "0747b369-8ba6-431d-83d9-861ce2908226")
+		)
+		(pin "11"
+			(uuid "0c8bb63a-f7e5-4b2d-8be3-4f9522e72ac8")
+		)
+		(pin "12"
+			(uuid "672ce741-50db-4960-b727-3ff41b7a845d")
+		)
+		(pin "13"
+			(uuid "24a9a1d8-f0f5-4ca4-b69e-4685c35ec8f2")
+		)
+		(pin "14"
+			(uuid "212e0c0e-c78f-4806-8bcd-432fbde18a4a")
+		)
+		(pin "15"
+			(uuid "771d6f4f-0c9c-4451-8d95-0e068e6f50d9")
+		)
+		(pin "16"
+			(uuid "940ea6cd-3793-4676-bbc8-15dc260970ae")
+		)
+		(pin "17"
+			(uuid "8f533d48-5349-42c3-98cc-982f5c6bd426")
+		)
+		(pin "9"
+			(uuid "541ee904-7c0d-4a6b-bbd6-a4fc37d35320")
+		)
+		(pin "7"
+			(uuid "197e90cf-0270-4e2e-8e40-d64322810b30")
+		)
+		(pin "8"
+			(uuid "a8233611-6004-400f-84ee-8ff63312cb33")
 		)
 		(instances
 			(project "Basine"
@@ -7065,7 +7245,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:Conn_bornier_et_wago"
 			(at 280.67 24.13 0)
 			(effects
 				(font
@@ -7173,12 +7353,11 @@
 		)
 	)
 	(symbol
-		(lib_name "Allumette_1")
 		(lib_id "Chimere_mods:Allumette")
 		(at 97.79 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "284be762-3c2b-474d-8378-4194d3bd32f6")
@@ -7248,6 +7427,45 @@
 		(pin "18"
 			(uuid "2ea4a230-204d-42ba-b9c0-270a56f1be26")
 		)
+		(pin "5"
+			(uuid "79bcd941-4907-4500-9158-413c1e474026")
+		)
+		(pin "6"
+			(uuid "d7f1686b-ee79-404e-938e-3acfecb06d81")
+		)
+		(pin "10"
+			(uuid "aa129687-32d4-4cbe-9e54-dec2f31abc71")
+		)
+		(pin "11"
+			(uuid "20239956-bed4-4dee-963f-0ebcdc75c1f9")
+		)
+		(pin "12"
+			(uuid "eb4638c6-a66e-44f9-9d41-aaa08ba7a378")
+		)
+		(pin "13"
+			(uuid "461f48bc-c229-4a73-9dc2-e6199d106695")
+		)
+		(pin "14"
+			(uuid "12434cbd-007a-4177-9982-7f835cbad6ce")
+		)
+		(pin "15"
+			(uuid "7b3945b2-c141-4cd0-8f7c-fa2b7bd48d09")
+		)
+		(pin "16"
+			(uuid "0502464c-94dd-44ce-afc7-9aad7e70d3d6")
+		)
+		(pin "17"
+			(uuid "01a74344-a6fc-4d09-9c75-e99ce59a94e8")
+		)
+		(pin "7"
+			(uuid "c61da5a2-d0f0-41e2-8884-4e26b3d95ae6")
+		)
+		(pin "8"
+			(uuid "83ac7983-0372-4e00-bc0a-b37f1ab5040d")
+		)
+		(pin "9"
+			(uuid "13dce1c9-8988-4b00-be88-94f380fcdfe3")
+		)
 		(instances
 			(project "Basine"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -7258,12 +7476,11 @@
 		)
 	)
 	(symbol
-		(lib_name "Allumette_1")
 		(lib_id "Chimere_mods:Allumette")
 		(at 199.39 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "2a7e49ec-febb-4bde-b107-cb5e22e2651b")
@@ -7333,6 +7550,45 @@
 		(pin "18"
 			(uuid "e54f1f7b-4dc5-4278-8b9f-77f1c001cd5b")
 		)
+		(pin "6"
+			(uuid "931a4074-c7e0-4b40-be31-35ad33fa6ec8")
+		)
+		(pin "5"
+			(uuid "49176f71-6b9e-47c9-ade3-0f5ea9f9db9c")
+		)
+		(pin "10"
+			(uuid "2bdaac09-b16d-475c-b0d2-290e40dbf175")
+		)
+		(pin "11"
+			(uuid "20d6e6ff-0080-4eeb-9d4b-c97439c16192")
+		)
+		(pin "12"
+			(uuid "816f09fb-c93c-4258-a449-bae901aff26b")
+		)
+		(pin "13"
+			(uuid "1356ba1b-fae0-4015-9121-e0dfcabdd911")
+		)
+		(pin "14"
+			(uuid "dcac8eb8-524a-4f12-8b2e-b102872a8b7e")
+		)
+		(pin "15"
+			(uuid "75fc6a22-dd65-4aad-b354-3e155963f365")
+		)
+		(pin "9"
+			(uuid "ecaacdc2-72ba-491d-9a3e-e298a9a23fde")
+		)
+		(pin "8"
+			(uuid "3b4dc077-ba18-4922-8e54-c02065b87bdb")
+		)
+		(pin "16"
+			(uuid "c538735e-7852-421f-807a-aed9ec843f37")
+		)
+		(pin "17"
+			(uuid "5ef74722-42f5-4c02-8d74-c0439ee689db")
+		)
+		(pin "7"
+			(uuid "3b2041a5-360c-4d88-a573-2cdfebb7bb26")
+		)
 		(instances
 			(project "Basine"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -7343,12 +7599,11 @@
 		)
 	)
 	(symbol
-		(lib_name "Allumette_1")
 		(lib_id "Chimere_mods:Allumette")
 		(at 237.49 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "2ae134bc-b81a-48ee-b5d5-5353b355470a")
@@ -7418,6 +7673,45 @@
 		(pin "18"
 			(uuid "0272a83e-88d2-4b0d-8cc5-5870eedd54a8")
 		)
+		(pin "5"
+			(uuid "de97d48e-2129-4ff0-972a-6f2d96066218")
+		)
+		(pin "6"
+			(uuid "5546a416-cc1a-40be-9612-f72f6ed47e30")
+		)
+		(pin "11"
+			(uuid "6067a6dd-1571-4fb3-bc93-ece0e5b3b87f")
+		)
+		(pin "10"
+			(uuid "4a60c031-ceb0-4a62-ab2d-6cffb7b5e8f4")
+		)
+		(pin "14"
+			(uuid "2d3bc68b-89bc-4339-90d6-47dd1be7d7a7")
+		)
+		(pin "16"
+			(uuid "c77b35c8-b127-43f0-bf72-5adb7213b3b6")
+		)
+		(pin "9"
+			(uuid "fa0c649f-8a1b-44ef-83d8-69da4032aaf8")
+		)
+		(pin "15"
+			(uuid "f2a9b4d6-f1ee-4013-ad5b-a465ace4dbe9")
+		)
+		(pin "12"
+			(uuid "c7bf3f0c-2367-48e1-9132-0d6a5a4934b2")
+		)
+		(pin "17"
+			(uuid "af5159a2-206b-4bd3-9f0b-2196378777e5")
+		)
+		(pin "13"
+			(uuid "d35bd1d6-406c-446c-b2c1-49614a24e094")
+		)
+		(pin "8"
+			(uuid "24f25f6a-52dd-4384-a42d-ba80c93ec43e")
+		)
+		(pin "7"
+			(uuid "35a77543-44de-4e51-817a-4faee4c0cd8e")
+		)
 		(instances
 			(project "Basine"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -7454,7 +7748,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:Conn_bornier_et_wago"
 			(at 64.77 24.13 0)
 			(effects
 				(font
@@ -7656,7 +7950,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:Conn_bornier_et_wago"
 			(at 191.77 24.13 0)
 			(effects
 				(font
@@ -7764,12 +8058,11 @@
 		)
 	)
 	(symbol
-		(lib_name "Allumette_1")
 		(lib_id "Chimere_mods:Allumette")
 		(at 110.49 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "3825a826-c825-40d7-aad4-67121aaeb4d4")
@@ -7839,6 +8132,45 @@
 		(pin "18"
 			(uuid "ef963787-36b1-4337-81a4-1a3b4b6f16e1")
 		)
+		(pin "5"
+			(uuid "625672cf-3969-4582-ad3f-7ea6e4eff303")
+		)
+		(pin "6"
+			(uuid "6feaca43-bf1b-42ac-92fb-46155f4867de")
+		)
+		(pin "11"
+			(uuid "4028f849-174d-41f5-98b3-886dbbe7be8d")
+		)
+		(pin "12"
+			(uuid "b41646f9-f5ed-49c0-a69e-0013d275179e")
+		)
+		(pin "13"
+			(uuid "82970f3d-eaf7-4dfd-a006-3ed7e5a58779")
+		)
+		(pin "10"
+			(uuid "ca20670a-07f7-4c4c-9ebc-83daf3418887")
+		)
+		(pin "17"
+			(uuid "416abcbc-3a7d-4b19-9578-ccf1dfa1cca2")
+		)
+		(pin "9"
+			(uuid "4b37bdb2-5d95-46da-b504-8198b647a4fc")
+		)
+		(pin "14"
+			(uuid "8ee6d32f-0d37-42d2-ad93-057641bf1bc6")
+		)
+		(pin "8"
+			(uuid "c6cf1357-d9d0-417f-8fde-89a167894fe2")
+		)
+		(pin "15"
+			(uuid "a484af3b-f8ce-48e9-bda3-84d73a078763")
+		)
+		(pin "16"
+			(uuid "cdef4a9c-4048-4bf0-8f51-b94ccc7d5758")
+		)
+		(pin "7"
+			(uuid "51f95269-668b-42af-91a2-b46628af0bb0")
+		)
 		(instances
 			(project "Basine"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -7875,7 +8207,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:Conn_bornier_et_wago"
 			(at 102.87 24.13 0)
 			(effects
 				(font
@@ -7915,12 +8247,11 @@
 		)
 	)
 	(symbol
-		(lib_name "Allumette_1")
 		(lib_id "Chimere_mods:Allumette")
 		(at 212.09 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "43123616-302a-4371-be9c-60ae9a7e42e8")
@@ -7990,6 +8321,45 @@
 		(pin "18"
 			(uuid "c8f76a13-2c53-40e0-b3aa-b331764c77eb")
 		)
+		(pin "6"
+			(uuid "bb6d4b17-6e2a-456d-ac75-fea5f67c9a63")
+		)
+		(pin "5"
+			(uuid "2bfef1d3-bce6-4fbb-8bbb-e0f72ab5436c")
+		)
+		(pin "10"
+			(uuid "05e774db-4d39-4eeb-9c7f-9fec8e256cdb")
+		)
+		(pin "11"
+			(uuid "da805bf2-9c80-46ab-b213-3988b78ef8c3")
+		)
+		(pin "16"
+			(uuid "0956a8d1-d591-424f-bbb8-36ab9d4f5491")
+		)
+		(pin "8"
+			(uuid "342bfcba-7a7d-4b07-a1f1-ddda3eb51b7f")
+		)
+		(pin "14"
+			(uuid "7c9634e2-1368-4c91-951a-c19d2ecf7bdf")
+		)
+		(pin "9"
+			(uuid "a832745f-17c6-4146-b905-8f64c94e848f")
+		)
+		(pin "17"
+			(uuid "83e47966-7e71-4ecd-aa91-2efe8472bcb0")
+		)
+		(pin "13"
+			(uuid "cda60a51-3559-4775-b539-971d53e14177")
+		)
+		(pin "15"
+			(uuid "0fdc7d81-b2e8-414d-ae1e-7568213667c2")
+		)
+		(pin "12"
+			(uuid "e4e9201f-41a6-47c3-8765-9b0561d56f96")
+		)
+		(pin "7"
+			(uuid "2cf9e8b1-9383-4a19-b9ad-fed366dde3ad")
+		)
 		(instances
 			(project "Basine"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -8000,12 +8370,11 @@
 		)
 	)
 	(symbol
-		(lib_name "Allumette_1")
 		(lib_id "Chimere_mods:Allumette")
 		(at 72.39 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "456ce2b2-9d5b-4a91-afd6-323be271db20")
@@ -8075,6 +8444,45 @@
 		(pin "18"
 			(uuid "9afd3169-65f2-4230-afa4-651226811024")
 		)
+		(pin "6"
+			(uuid "2a21f697-1b6d-4645-ac7a-e398ca0a11bb")
+		)
+		(pin "5"
+			(uuid "e004036a-f556-4503-a674-f6f2bb5e9748")
+		)
+		(pin "13"
+			(uuid "17b5a76e-dbb7-4aa9-a143-ab51959ff8bb")
+		)
+		(pin "7"
+			(uuid "0c172655-20b4-4b88-94ee-378a7ded778e")
+		)
+		(pin "14"
+			(uuid "525aa539-a740-40c5-ac6c-5994f3bd671c")
+		)
+		(pin "15"
+			(uuid "e4cb08e8-395f-40eb-83db-946f38671fa2")
+		)
+		(pin "17"
+			(uuid "fd48f3e9-ecdc-4bfd-be49-d197129357b5")
+		)
+		(pin "10"
+			(uuid "1ff7193a-4b65-4833-8bab-82b58e3e321f")
+		)
+		(pin "12"
+			(uuid "8f5a2a45-ebf2-4df4-b92b-152765d0a734")
+		)
+		(pin "16"
+			(uuid "e9a76c20-6263-4d5a-a97c-8ce9f3c98e39")
+		)
+		(pin "11"
+			(uuid "2dca1670-25e1-4219-a532-dfc141b20d86")
+		)
+		(pin "8"
+			(uuid "c5f20b0a-c207-4275-b15f-31a9e8647e1b")
+		)
+		(pin "9"
+			(uuid "32571dce-d45c-4d09-a9dd-2080e6719880")
+		)
 		(instances
 			(project "Basine"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -8111,7 +8519,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:Conn_bornier_et_wago"
 			(at 179.07 24.13 0)
 			(effects
 				(font
@@ -8177,7 +8585,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:Conn_bornier_et_wago"
 			(at 255.27 24.13 0)
 			(effects
 				(font
@@ -8285,12 +8693,11 @@
 		)
 	)
 	(symbol
-		(lib_name "Allumette_1")
 		(lib_id "Chimere_mods:Allumette")
 		(at 135.89 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "60202ad0-7c8d-49fb-9599-33d6e0507b2d")
@@ -8360,6 +8767,45 @@
 		(pin "18"
 			(uuid "ff84ec67-6c38-40b3-8a38-feb9132eb249")
 		)
+		(pin "5"
+			(uuid "6bc6b764-445e-4106-b5d5-ee920b4affdd")
+		)
+		(pin "6"
+			(uuid "1f0994db-469a-4535-9eb6-2ba6a5078be2")
+		)
+		(pin "11"
+			(uuid "ca127b80-0644-44da-a722-a548f8104093")
+		)
+		(pin "16"
+			(uuid "92747eca-c4e1-4eaa-89e5-2ed85320eb4b")
+		)
+		(pin "15"
+			(uuid "d81ae764-4d53-4880-a4d5-8ab97748193a")
+		)
+		(pin "13"
+			(uuid "c7cac1be-6a4f-4953-81c6-b2f7aa82f248")
+		)
+		(pin "17"
+			(uuid "22f96e87-5410-4e1a-9ecd-b882507a93ac")
+		)
+		(pin "8"
+			(uuid "252c1ddf-8b97-49ce-8992-1029400531ea")
+		)
+		(pin "14"
+			(uuid "72de3d42-a7da-4ecc-bd0c-308f7e60c442")
+		)
+		(pin "12"
+			(uuid "d53b1ff9-ea1b-44a9-a641-09e5acac9564")
+		)
+		(pin "10"
+			(uuid "1e17c494-2c2c-4207-9036-89cf001781b7")
+		)
+		(pin "7"
+			(uuid "3d89b942-57dd-4eb0-a477-1751a8eb8d99")
+		)
+		(pin "9"
+			(uuid "862bf5d2-13f9-4527-9dd9-950f95ddd16e")
+		)
 		(instances
 			(project "Basine"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -8396,7 +8842,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:Conn_bornier_et_wago"
 			(at 140.97 24.13 0)
 			(effects
 				(font
@@ -8462,7 +8908,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:Conn_bornier_et_wago"
 			(at 217.17 24.13 0)
 			(effects
 				(font
@@ -8502,12 +8948,11 @@
 		)
 	)
 	(symbol
-		(lib_name "Allumette_1")
 		(lib_id "Chimere_mods:Allumette")
 		(at 85.09 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "67951a2a-bde4-416d-9558-2ef1fb31d741")
@@ -8576,6 +9021,45 @@
 		)
 		(pin "18"
 			(uuid "71b43eb9-5f98-4b5d-af5f-ab141f1e681a")
+		)
+		(pin "6"
+			(uuid "9d7e2a1a-499c-4885-9233-e180d531a4ab")
+		)
+		(pin "5"
+			(uuid "9eee3edd-2d84-4d42-9e0c-1c549c91bfcc")
+		)
+		(pin "11"
+			(uuid "a9f79cc9-3068-44fa-9014-48b3dc8d9547")
+		)
+		(pin "10"
+			(uuid "85bb1ec5-a838-4b40-82b1-cd07d2f77869")
+		)
+		(pin "7"
+			(uuid "83d39906-0f01-44c4-921f-a2ed32ba4206")
+		)
+		(pin "15"
+			(uuid "1e5a2271-df0a-433d-91fc-a3ee6a7d554b")
+		)
+		(pin "16"
+			(uuid "1f4997fe-72ac-40e9-988e-81ba99be0d9b")
+		)
+		(pin "8"
+			(uuid "8ea9905f-0157-4bc8-8ab7-4d8926ef7c6b")
+		)
+		(pin "9"
+			(uuid "13915183-3047-4f92-8731-09cbc8dbdd55")
+		)
+		(pin "13"
+			(uuid "f2fc4beb-1821-4b6a-bcb0-a275f8aa00cf")
+		)
+		(pin "17"
+			(uuid "5fb8dd4c-4287-4399-97ce-5a2ce52b481b")
+		)
+		(pin "14"
+			(uuid "55acc266-24d5-4b85-9bd9-2b9a81878fda")
+		)
+		(pin "12"
+			(uuid "e5badab6-4e2b-475f-b777-8986f3cda04e")
 		)
 		(instances
 			(project "Basine"
@@ -8791,12 +9275,11 @@
 		)
 	)
 	(symbol
-		(lib_name "Allumette_1")
 		(lib_id "Chimere_mods:Allumette")
 		(at 250.19 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "76f4a94f-3abe-4c9c-bb67-25ad1f77fa56")
@@ -8866,6 +9349,45 @@
 		(pin "18"
 			(uuid "0a4fa2fa-d3d3-46dd-95de-3c5a297da78a")
 		)
+		(pin "6"
+			(uuid "02b9248d-7fb6-4754-bd83-3a1dff0043c4")
+		)
+		(pin "5"
+			(uuid "66924282-c6a5-4c0c-829f-9b2086bb6e59")
+		)
+		(pin "10"
+			(uuid "49b04421-8baf-44d3-b261-cc09791ab242")
+		)
+		(pin "11"
+			(uuid "a6e53859-f115-4192-8213-4a22685ab996")
+		)
+		(pin "12"
+			(uuid "352aea90-bb8c-4e48-9158-3edbc825cea8")
+		)
+		(pin "13"
+			(uuid "f6db4de2-d913-4321-a551-26bb28774b4f")
+		)
+		(pin "8"
+			(uuid "72c90609-02c0-4547-aa8e-e81be8ed2d2c")
+		)
+		(pin "7"
+			(uuid "b6c1c1bb-62d8-47a7-8a3b-1ad2a91aeb71")
+		)
+		(pin "17"
+			(uuid "6b8d7b33-d208-4a7c-adf7-7a603a153ef2")
+		)
+		(pin "14"
+			(uuid "31e0de00-b116-49f2-9109-73ef5f49b075")
+		)
+		(pin "9"
+			(uuid "caf10444-4ec8-4f33-b645-a950a47bcf10")
+		)
+		(pin "15"
+			(uuid "eecc74ad-73ac-42f2-a758-e98c174f4f76")
+		)
+		(pin "16"
+			(uuid "ef1e3845-640e-4064-aaf6-803fc1cf9263")
+		)
 		(instances
 			(project "Basine"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -8902,7 +9424,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:Conn_bornier_et_wago"
 			(at 166.37 24.13 0)
 			(effects
 				(font
@@ -9078,12 +9600,11 @@
 		)
 	)
 	(symbol
-		(lib_name "Allumette_1")
 		(lib_id "Chimere_mods:Allumette")
 		(at 161.29 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "88d05cd1-1ab0-4603-8334-077db9b5e656")
@@ -9153,6 +9674,45 @@
 		(pin "18"
 			(uuid "cc78858a-e722-42b7-99bc-013e6c6ffd48")
 		)
+		(pin "6"
+			(uuid "f514fa01-39c3-4915-ad1e-4f05c2b31ceb")
+		)
+		(pin "5"
+			(uuid "db243acc-36c2-4031-9b60-501618a6bfb9")
+		)
+		(pin "14"
+			(uuid "4128c696-ce4f-4330-855f-c7bd0a945a25")
+		)
+		(pin "10"
+			(uuid "017bb5ab-99ed-4e75-8f41-213a70f820f2")
+		)
+		(pin "11"
+			(uuid "750b71ee-46ed-41c0-ab37-c6b006d8fe1b")
+		)
+		(pin "15"
+			(uuid "2fb841f5-748c-4f85-af80-fc7a2f912bf8")
+		)
+		(pin "16"
+			(uuid "9969e861-8492-403c-bed8-de5112c2b051")
+		)
+		(pin "13"
+			(uuid "a4f317b0-ef0c-49df-8160-5a593e0c2414")
+		)
+		(pin "12"
+			(uuid "d729ca8b-feda-4a85-81b3-7c47a395a635")
+		)
+		(pin "8"
+			(uuid "77d3f436-3056-4c20-9369-ae541e956713")
+		)
+		(pin "17"
+			(uuid "b43a88d5-57cb-4b8a-ac60-a4cdd3832b50")
+		)
+		(pin "9"
+			(uuid "e7d5debc-07ad-4f65-86e1-274537e78c61")
+		)
+		(pin "7"
+			(uuid "34ebeb22-0733-46b4-ad73-ce69426f3985")
+		)
 		(instances
 			(project "Basine"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -9163,12 +9723,11 @@
 		)
 	)
 	(symbol
-		(lib_name "Allumette_1")
 		(lib_id "Chimere_mods:Allumette")
 		(at 123.19 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "98438c06-5637-4e63-a792-57312e9a2e55")
@@ -9238,6 +9797,45 @@
 		(pin "18"
 			(uuid "65625854-095e-4ffc-be96-060ded42a23a")
 		)
+		(pin "5"
+			(uuid "1dd3e6d2-824a-4bff-b61e-121da99dd076")
+		)
+		(pin "6"
+			(uuid "562f5eca-1e25-40eb-b389-ce2f6c664d38")
+		)
+		(pin "9"
+			(uuid "c1a7d02a-ae1a-4077-b36d-1e37bd2d31e7")
+		)
+		(pin "13"
+			(uuid "edaae496-e7ba-4a71-a908-acd2d79c7597")
+		)
+		(pin "14"
+			(uuid "297d69f4-3e9f-428f-8441-fb67f1afea75")
+		)
+		(pin "16"
+			(uuid "33b67671-df34-45c2-8067-692a1ee94a17")
+		)
+		(pin "15"
+			(uuid "44d4a849-aa8f-4c15-aa57-ebf2b9be7edf")
+		)
+		(pin "11"
+			(uuid "4503bbb2-7118-4d93-9283-888ecf2b54ba")
+		)
+		(pin "7"
+			(uuid "52572dde-01bb-4f09-b2dc-7bb5019e5efe")
+		)
+		(pin "17"
+			(uuid "6ebb52fa-9923-4cba-9eb5-9b3d8cd7e707")
+		)
+		(pin "8"
+			(uuid "52420497-b8b4-41d4-be67-297571c82e36")
+		)
+		(pin "10"
+			(uuid "442c761b-6c03-4057-af01-3e815bf8d98f")
+		)
+		(pin "12"
+			(uuid "7928b475-7a72-452c-b472-4daf45df7080")
+		)
 		(instances
 			(project "Basine"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -9248,12 +9846,11 @@
 		)
 	)
 	(symbol
-		(lib_name "Allumette_1")
 		(lib_id "Chimere_mods:Allumette")
 		(at 173.99 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "9cd550b1-05b1-4373-9ce8-6098fe26e819")
@@ -9322,6 +9919,45 @@
 		)
 		(pin "18"
 			(uuid "17d74dd4-8c82-4f7d-8865-b96a1e8a5483")
+		)
+		(pin "5"
+			(uuid "97bc4e8b-9eae-4d2f-a6fe-45483a91bd06")
+		)
+		(pin "6"
+			(uuid "bd69e88a-de9a-4b21-a509-8ba9c2c0dfb4")
+		)
+		(pin "12"
+			(uuid "3e6d16f5-177d-44a7-80b3-3241e7d41e90")
+		)
+		(pin "10"
+			(uuid "9e38e94e-22b6-493c-8521-eaffd5b27f12")
+		)
+		(pin "11"
+			(uuid "36944ea8-1be8-4d5f-af06-411ed266d0e6")
+		)
+		(pin "17"
+			(uuid "a33940bb-f1c1-41e0-8ddd-e51d3e8577f5")
+		)
+		(pin "9"
+			(uuid "57a54681-e088-4312-95c0-177d7eeb33cf")
+		)
+		(pin "13"
+			(uuid "46c375df-a83a-44e1-818e-8a5d9083c0f2")
+		)
+		(pin "14"
+			(uuid "5cb6550d-3886-416e-a0a3-6ccb3b48030a")
+		)
+		(pin "7"
+			(uuid "5995ca46-d1b2-48ce-8cce-6321ac41b8b0")
+		)
+		(pin "15"
+			(uuid "b5286b47-3a20-4e88-b9db-ae7008a689f3")
+		)
+		(pin "16"
+			(uuid "fd6e6492-c558-48d7-a0c9-7360fcc4bf3c")
+		)
+		(pin "8"
+			(uuid "e124ed52-fb26-4e3e-839b-b760747a1e1f")
 		)
 		(instances
 			(project "Basine"
@@ -9399,12 +10035,11 @@
 		)
 	)
 	(symbol
-		(lib_name "Allumette_1")
 		(lib_id "Chimere_mods:Allumette")
 		(at 224.79 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "a8412f00-6306-44f1-854b-3587e18c1ae7")
@@ -9474,10 +10109,117 @@
 		(pin "18"
 			(uuid "7ef28caa-74ed-4df2-9c16-9760f29d727e")
 		)
+		(pin "5"
+			(uuid "738e1630-8194-411b-a597-692cf8bacb8b")
+		)
+		(pin "6"
+			(uuid "7351fac9-71fd-4008-b465-f1afeafd1f24")
+		)
+		(pin "16"
+			(uuid "54a5cb02-703d-4364-8d3d-99bfc4295035")
+		)
+		(pin "10"
+			(uuid "b67a6c1c-10fb-42e4-a505-238579fe38a5")
+		)
+		(pin "17"
+			(uuid "24154195-ed62-4357-8c20-7d6d02e6fc75")
+		)
+		(pin "12"
+			(uuid "9709f75e-fc78-4254-90bb-2647ea709be7")
+		)
+		(pin "8"
+			(uuid "5e83d761-9d61-48d9-a3b9-fbc86ae8df31")
+		)
+		(pin "11"
+			(uuid "52d7f964-1de7-4d52-985f-3a35d02fd4fb")
+		)
+		(pin "15"
+			(uuid "ea906320-0f4a-4ab7-832b-abc14e9c9a50")
+		)
+		(pin "14"
+			(uuid "a59c6207-1649-4317-99bf-e50910e7c4e1")
+		)
+		(pin "13"
+			(uuid "d1235149-73a9-4a74-983a-dc634bf5c20e")
+		)
+		(pin "9"
+			(uuid "d76e44eb-1a39-4eee-91f6-8f6b90e094e2")
+		)
+		(pin "7"
+			(uuid "64920c23-6dc5-4c1e-aec2-c4479fe8336c")
+		)
 		(instances
 			(project "Basine"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "U14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 143.51 172.72 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "a8f52a03-11fb-43e1-97a8-14b27aa954dc")
+		(property "Reference" "JP19"
+			(at 146.05 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 147.32 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
+			(at 143.51 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 143.51 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 143.51 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3da862d9-ac1d-4af6-a1c6-704b0f80cdb4")
+		)
+		(pin "1"
+			(uuid "83d1e50c-cf2d-4fab-9d55-b19b764314df")
+		)
+		(instances
+			(project "Basine"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "JP19")
 					(unit 1)
 				)
 			)
@@ -9510,7 +10252,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:Conn_bornier_et_wago"
 			(at 204.47 24.13 0)
 			(effects
 				(font
@@ -9550,12 +10292,11 @@
 		)
 	)
 	(symbol
-		(lib_name "Allumette_1")
 		(lib_id "Chimere_mods:Allumette")
 		(at 186.69 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "b29a1707-6781-4c0e-bde3-d1469bf7e607")
@@ -9625,6 +10366,45 @@
 		(pin "18"
 			(uuid "9591476b-04a0-4824-9256-3d2bf55dcb9a")
 		)
+		(pin "5"
+			(uuid "5dea691e-3e88-4d3c-8dd7-554334a29b32")
+		)
+		(pin "6"
+			(uuid "3a25d0c0-609a-4798-9dee-d7858c37d63b")
+		)
+		(pin "11"
+			(uuid "f03dcb21-9e5e-4221-9323-6ffd035b1aaf")
+		)
+		(pin "14"
+			(uuid "45e694ec-a824-477c-bfcb-a84df85e2ea2")
+		)
+		(pin "13"
+			(uuid "f08d50bf-0b72-4abe-9d78-412b24b4fb7a")
+		)
+		(pin "10"
+			(uuid "238356b5-d979-4748-81d8-e187cb9185a6")
+		)
+		(pin "12"
+			(uuid "9ef68b1a-2657-4624-b27f-7cae14c573ca")
+		)
+		(pin "15"
+			(uuid "e9459669-75f0-4c21-a7d3-2eb3d6b4345c")
+		)
+		(pin "17"
+			(uuid "bf04eaf3-4c88-425d-88fb-3e902d5977b8")
+		)
+		(pin "7"
+			(uuid "eef134cc-ab90-494d-82f9-67dcbef0689a")
+		)
+		(pin "16"
+			(uuid "a038fb2e-317f-47b0-a7b6-02816440b345")
+		)
+		(pin "9"
+			(uuid "e52a031c-1fb2-461a-a345-11445abcfede")
+		)
+		(pin "8"
+			(uuid "47fd63ff-e937-483e-a206-a3ca5ebf5217")
+		)
 		(instances
 			(project "Basine"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
@@ -9661,7 +10441,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:Conn_bornier_et_wago"
 			(at 153.67 24.13 0)
 			(effects
 				(font
@@ -9769,12 +10549,11 @@
 		)
 	)
 	(symbol
-		(lib_name "Allumette_1")
 		(lib_id "Chimere_mods:Allumette")
 		(at 148.59 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "de03703e-a5ad-4fd9-8727-18f732433f04")
@@ -9843,6 +10622,45 @@
 		)
 		(pin "18"
 			(uuid "55b2aea3-d50d-4fae-b9f3-44fd7e950130")
+		)
+		(pin "5"
+			(uuid "e08a6eb7-d7b7-4b16-b617-afc82533ea94")
+		)
+		(pin "6"
+			(uuid "bacf2130-605e-462c-97f8-146ddd636e09")
+		)
+		(pin "13"
+			(uuid "4692e2e4-6c90-42e5-859d-48c63113e75e")
+		)
+		(pin "17"
+			(uuid "96bb45ae-4231-4639-81ac-925c98a29e7b")
+		)
+		(pin "14"
+			(uuid "dc2946f4-3a2c-4350-a63b-e2416358c31c")
+		)
+		(pin "16"
+			(uuid "2f020b87-1b97-4430-8ad2-a1c1217b88b8")
+		)
+		(pin "10"
+			(uuid "111f4b53-ef11-4c15-8867-002c3612361a")
+		)
+		(pin "11"
+			(uuid "490a5a1a-1d84-4a5e-bb57-250409c3db0c")
+		)
+		(pin "12"
+			(uuid "391ae589-5c8e-47cb-a429-d0bf57ee6d7f")
+		)
+		(pin "15"
+			(uuid "1c450646-4fcd-4cdf-85fd-e678009a4827")
+		)
+		(pin "9"
+			(uuid "4ff24288-24b6-44e9-9c86-6e69f8bc0806")
+		)
+		(pin "7"
+			(uuid "394cab38-be8f-4b96-8530-ed3b5890d6b2")
+		)
+		(pin "8"
+			(uuid "e4181c45-1f46-4c4b-a5f8-b3dd56c4ef21")
 		)
 		(instances
 			(project "Basine"
@@ -9948,7 +10766,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:Conn_bornier_et_wago"
 			(at 115.57 24.13 0)
 			(effects
 				(font
@@ -10014,7 +10832,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:Conn_bornier_et_wago"
 			(at 128.27 24.13 0)
 			(effects
 				(font
@@ -10216,7 +11034,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:Conn_bornier_et_wago"
 			(at 77.47 24.13 0)
 			(effects
 				(font
@@ -10282,7 +11100,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Chimere_comps:CONN_2060-1451_998-404_WAGO"
+		(property "Footprint" "Chimere_comps:Conn_bornier_et_wago"
 			(at 242.57 24.13 0)
 			(effects
 				(font
@@ -10322,12 +11140,11 @@
 		)
 	)
 	(symbol
-		(lib_name "Allumette_1")
 		(lib_id "Chimere_mods:Allumette")
 		(at 275.59 50.8 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "f5ca4fcc-e499-4d63-b83b-646202d8f28a")
@@ -10396,6 +11213,45 @@
 		)
 		(pin "18"
 			(uuid "ec3431d8-a4bf-4c43-b463-c7a634ef9fc6")
+		)
+		(pin "5"
+			(uuid "f5d43722-108c-42b4-ac03-146b08e245b5")
+		)
+		(pin "6"
+			(uuid "27c44c44-5b6f-438a-a9c3-9927926a1330")
+		)
+		(pin "13"
+			(uuid "69509957-eb86-45ef-9314-2fe57aabb604")
+		)
+		(pin "11"
+			(uuid "68d7b25c-7c2f-40f1-bd48-ec0318c82775")
+		)
+		(pin "8"
+			(uuid "6bc78540-0975-4a97-8e02-507235b816ff")
+		)
+		(pin "9"
+			(uuid "6973d7f6-450c-49b5-a6a4-2101cec40b7e")
+		)
+		(pin "12"
+			(uuid "bdcae56e-5a6b-4c7c-a607-1a004cfacd67")
+		)
+		(pin "14"
+			(uuid "3f851fab-4bf4-42b9-beb4-026aab3a98dc")
+		)
+		(pin "16"
+			(uuid "c97abf05-688f-4e93-bcb9-40f3a744fd38")
+		)
+		(pin "7"
+			(uuid "c954f144-bb04-4057-8e11-c622e9064e74")
+		)
+		(pin "10"
+			(uuid "1e1916cc-1528-4f81-b4e9-849383f4af29")
+		)
+		(pin "17"
+			(uuid "925ab6ce-fd57-4f62-ae2b-b25f3378f19e")
+		)
+		(pin "15"
+			(uuid "0124051e-c275-422d-ad28-fa2d44d93874")
 		)
 		(instances
 			(project "Basine"

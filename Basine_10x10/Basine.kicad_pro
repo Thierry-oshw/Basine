@@ -677,6 +677,9 @@
       "Net-(J9-Pin_1)": [
         "signal_x2"
       ],
+      "Net-(JP19-A)": [
+        "alim"
+      ],
       "VIN": [
         "alim_x2"
       ],
