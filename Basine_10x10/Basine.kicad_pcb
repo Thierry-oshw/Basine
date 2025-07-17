@@ -7,6 +7,11 @@
 		(legacy_teardrops no)
 	)
 	(paper "A3")
+	(title_block
+		(title "Basine")
+		(date "2025-07-17")
+		(rev "2025_07_17")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(2 "B.Cu" signal)
@@ -871,7 +876,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -883,7 +888,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1119,7 +1124,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1131,7 +1136,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1825,7 +1830,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1837,7 +1842,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2073,7 +2078,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2085,7 +2090,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2184,7 +2189,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2196,7 +2201,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2295,7 +2300,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2307,7 +2312,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2406,7 +2411,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2418,7 +2423,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2517,7 +2522,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2529,7 +2534,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2628,7 +2633,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2640,7 +2645,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2739,7 +2744,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2751,7 +2756,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2850,7 +2855,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2862,7 +2867,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2961,7 +2966,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2973,7 +2978,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3072,7 +3077,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3084,7 +3089,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3183,7 +3188,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3195,7 +3200,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3294,7 +3299,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3306,7 +3311,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3405,7 +3410,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3417,7 +3422,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4112,7 +4117,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4124,7 +4129,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4223,7 +4228,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4235,7 +4240,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4334,7 +4339,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4346,7 +4351,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5041,7 +5046,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5053,7 +5058,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5151,7 +5156,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5163,7 +5168,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5399,7 +5404,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5411,7 +5416,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5510,7 +5515,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5522,7 +5527,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5621,7 +5626,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5633,7 +5638,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5732,7 +5737,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5744,7 +5749,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5843,7 +5848,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5855,7 +5860,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5954,7 +5959,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5966,7 +5971,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6065,7 +6070,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6077,7 +6082,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6176,7 +6181,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6188,7 +6193,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6287,7 +6292,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6299,7 +6304,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6397,7 +6402,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6409,7 +6414,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6645,7 +6650,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6657,7 +6662,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6756,7 +6761,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6768,7 +6773,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6867,7 +6872,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6879,7 +6884,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6978,7 +6983,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6990,7 +6995,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7089,7 +7094,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7101,7 +7106,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7200,7 +7205,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7212,7 +7217,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7311,7 +7316,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7323,7 +7328,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7421,7 +7426,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7433,7 +7438,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7669,7 +7674,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7681,7 +7686,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7780,7 +7785,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7792,7 +7797,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7891,7 +7896,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7903,7 +7908,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8598,7 +8603,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8610,7 +8615,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8709,7 +8714,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -8721,7 +8726,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9416,7 +9421,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9428,7 +9433,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9527,7 +9532,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9539,7 +9544,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9638,7 +9643,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9650,7 +9655,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10345,7 +10350,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10357,7 +10362,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11052,7 +11057,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11064,7 +11069,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11163,7 +11168,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11175,7 +11180,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11274,7 +11279,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11286,7 +11291,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11385,7 +11390,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11397,7 +11402,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11495,7 +11500,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11507,7 +11512,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11743,7 +11748,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11755,7 +11760,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11854,7 +11859,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11866,7 +11871,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11965,7 +11970,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11977,7 +11982,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12076,7 +12081,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12088,7 +12093,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12187,7 +12192,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12199,7 +12204,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12298,7 +12303,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12310,7 +12315,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12409,7 +12414,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12421,7 +12426,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12520,7 +12525,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12532,7 +12537,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12631,7 +12636,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12643,7 +12648,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12742,7 +12747,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12754,7 +12759,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14641,7 +14646,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14653,7 +14658,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14752,7 +14757,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14764,7 +14769,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14863,7 +14868,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14875,7 +14880,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15570,7 +15575,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15582,7 +15587,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15681,7 +15686,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15693,7 +15698,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15792,7 +15797,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15804,7 +15809,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15903,7 +15908,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15915,7 +15920,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16014,7 +16019,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16026,7 +16031,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16721,7 +16726,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16733,7 +16738,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16832,7 +16837,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16844,7 +16849,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16942,7 +16947,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16954,7 +16959,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17190,7 +17195,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17202,7 +17207,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17276,9 +17281,10 @@
 		(uuid "6a7897b9-19c5-4ea2-8f9d-2e55e3b5d5c5")
 		(at 151.895 181.62 90)
 		(property "Reference" "U19"
-			(at 0 -0.5 90)
+			(at 0 -23.2 90)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "93189133-565d-4f4c-80e2-0ce492850c1c")
 			(effects
 				(font
@@ -17330,15 +17336,37 @@
 		(sheetfile "Basine.kicad_sch")
 		(attr through_hole)
 		(fp_rect
-			(start -10.16 -27.305)
-			(end 10.16 27.305)
+			(start -2.96 -21.705)
+			(end 2.96 23.005)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "50f3baee-ac3e-4b0b-b1f9-7d89944c3454")
+			(uuid "edd1691f-bacd-47f2-8324-48e8dc1c8369")
+		)
+		(fp_rect
+			(start -1 -20.7)
+			(end 1 -8.5)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.SilkS")
+			(uuid "48b637d1-ea84-4bba-b7a0-baba2e8c8b61")
+		)
+		(fp_rect
+			(start -1 9.8)
+			(end 1 22)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.SilkS")
+			(uuid "dc6286cb-1feb-4177-9455-171ac4d7c187")
 		)
 		(fp_rect
 			(start -10.16 -27.305)
@@ -17349,7 +17377,7 @@
 			)
 			(fill no)
 			(layer "B.SilkS")
-			(uuid "03b4cda9-8a6e-4960-9858-8341ee0a56b6")
+			(uuid "7b5b1364-6b84-4f36-9872-d48a43a0a462")
 		)
 		(fp_rect
 			(start -10.16 -27.305)
@@ -17360,7 +17388,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "9869abce-caf1-423d-b15c-639f19604d7f")
+			(uuid "e4fea0d1-c843-4cd7-8196-b726533730ec")
 		)
 		(fp_rect
 			(start -10.16 -27.305)
@@ -17371,7 +17399,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "538a2cab-0272-4cde-8828-fbb7397b83bc")
+			(uuid "697ced06-9c32-4c2c-bf86-1d4a38e233e8")
 		)
 		(fp_line
 			(start -10.16 -27.305)
@@ -17381,7 +17409,7 @@
 				(type default)
 			)
 			(layer "User.9")
-			(uuid "5a5e69ca-0f04-4820-8004-cd2273848b5c")
+			(uuid "01f85be4-1c76-4db5-906c-4974e8e28403")
 		)
 		(fp_line
 			(start -10.16 27.305)
@@ -17391,17 +17419,18 @@
 				(type default)
 			)
 			(layer "User.9")
-			(uuid "a48a39fe-47a1-421b-965e-05580a9af478")
+			(uuid "500dee10-413f-420a-a9e9-3b8e6f2f62b7")
 		)
 		(fp_text user "Ultrogothe\n"
-			(at 0 20 180)
+			(at -1.4 -7.6 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "0041ea0b-e11e-4149-907d-09b27db0d2de")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 2 2)
+					(thickness 0.5)
+					(bold yes)
 				)
 				(justify left bottom)
 			)
@@ -17927,7 +17956,7 @@
 			)
 		)
 		(fp_text user "B10"
-			(at 6.35 -5.08 90)
+			(at 3.7 -6.3 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "0eb45285-4403-4441-951a-f701387d5726")
@@ -17940,7 +17969,7 @@
 			)
 		)
 		(fp_text user "A15"
-			(at -3.556 -5.08 90)
+			(at -6.6 -6.2 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "129448fa-2878-4b03-9900-2b10b89c9a32")
@@ -17953,7 +17982,7 @@
 			)
 		)
 		(fp_text user "5V IN"
-			(at 6.35 25.4 90)
+			(at 2.3 24.2 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "14bde94a-f8ac-4cc8-bcd9-12866c0efd01")
@@ -17966,7 +17995,7 @@
 			)
 		)
 		(fp_text user "A6"
-			(at 6.35 7.493 90)
+			(at 4.7 6.4 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "16e3a20a-0238-4a2c-ae3b-cd8169257cbd")
@@ -17979,7 +18008,7 @@
 			)
 		)
 		(fp_text user "C15"
-			(at -3.429 20.32 90)
+			(at -6.7 19.1 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "1a678b59-7c32-441d-b864-c749252b833b")
@@ -17992,7 +18021,7 @@
 			)
 		)
 		(fp_text user "B5"
-			(at -4.572 2.54 90)
+			(at -6.6 1.3 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "1b8e349b-e46c-4c0d-8d5a-6f5f04ff823a")
@@ -18005,7 +18034,7 @@
 			)
 		)
 		(fp_text user "A1"
-			(at 6.604 20.193 90)
+			(at 4.7 19.2 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "1f4f96b0-29ba-4013-a0a8-556896553748")
@@ -18018,7 +18047,7 @@
 			)
 		)
 		(fp_text user "B9"
-			(at -4.572 12.7 90)
+			(at -6.6 11.5 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "24bfdf35-eb53-4c61-8afe-c4b9b61b6dc3")
@@ -18031,7 +18060,7 @@
 			)
 		)
 		(fp_text user "A11"
-			(at -3.683 -15.113 90)
+			(at -6.6 -16.5 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "2d9cc041-7b46-4514-b44f-a85d25722c71")
@@ -18044,7 +18073,7 @@
 			)
 		)
 		(fp_text user "B7"
-			(at -4.572 7.62 90)
+			(at -6.6 6.4 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "3bc5ab01-2fcb-4d36-92fc-11204628f461")
@@ -18057,7 +18086,7 @@
 			)
 		)
 		(fp_text user "B0"
-			(at 6.35 2.54 90)
+			(at 4.6 1.3 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "3d704ef2-b610-4a86-86be-c1b5d79e91cb")
@@ -18070,7 +18099,7 @@
 			)
 		)
 		(fp_text user "A4"
-			(at 6.477 12.7 90)
+			(at 4.7 11.5 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "45f7ecf5-881a-433a-b15f-2fb0522ecb56")
@@ -18083,7 +18112,7 @@
 			)
 		)
 		(fp_text user "A0"
-			(at 6.604 22.86 90)
+			(at 4.7 21.7 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "491f8821-af25-4173-8454-e724dcba7b4f")
@@ -18096,7 +18125,7 @@
 			)
 		)
 		(fp_text user "A10"
-			(at -3.683 -17.78 90)
+			(at -6.5 -18.9 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "512a8c6c-401b-4106-8d56-6ee505543d6d")
@@ -18109,7 +18138,7 @@
 			)
 		)
 		(fp_text user "B8"
-			(at -4.572 10.16 90)
+			(at -6.6 8.8 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "5833554d-459a-4972-8961-56b606668bf5")
@@ -18122,7 +18151,7 @@
 			)
 		)
 		(fp_text user "A7"
-			(at 6.35 4.953 90)
+			(at 4.8 3.9 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "67897d5c-da8d-4ca0-86ab-ddf42321e305")
@@ -18135,20 +18164,21 @@
 			)
 		)
 		(fp_text user "Ultrogothe\n"
-			(at -1 20 0)
+			(at -1 8.4 0)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "67cd51d8-72e6-41d9-a98f-682ef41b1f6f")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 2 2)
+					(thickness 0.5)
+					(bold yes)
 				)
 				(justify left bottom mirror)
 			)
 		)
 		(fp_text user "B1"
-			(at 6.35 -0.127 90)
+			(at 4.7 -1.2 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "6cda543b-419d-4121-9100-e8acc25d9f6e")
@@ -18161,7 +18191,7 @@
 			)
 		)
 		(fp_text user "B11"
-			(at 6.223 -7.747 90)
+			(at 3.8 -8.9 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "79098b88-a8e6-4675-8a9c-63c5bc1fffe2")
@@ -18174,7 +18204,7 @@
 			)
 		)
 		(fp_text user "A12"
-			(at -3.683 -12.7 90)
+			(at -6.6 -13.9 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "83b68069-2821-4881-bc86-4aa35de57c48")
@@ -18187,7 +18217,7 @@
 			)
 		)
 		(fp_text user "B13"
-			(at 6.223 -12.827 90)
+			(at 3.6 -14 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "83c3c829-db77-4b0e-aeea-589f755ff53c")
@@ -18200,7 +18230,7 @@
 			)
 		)
 		(fp_text user "B3"
-			(at -4.445 -2.413 90)
+			(at -6.5 -3.8 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "853694f1-4367-41e1-a7e9-3c888cb2d5e0")
@@ -18213,7 +18243,7 @@
 			)
 		)
 		(fp_text user "A9"
-			(at -4.699 -20.193 90)
+			(at -6.5 -21.6 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "8589dbda-4ee7-4728-a56e-a7fb9460f840")
@@ -18226,7 +18256,7 @@
 			)
 		)
 		(fp_text user "3V3"
-			(at -3.429 25.4 90)
+			(at -6.7 24.1 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "990bee38-3966-4243-9b35-a0c43fbd4083")
@@ -18239,7 +18269,7 @@
 			)
 		)
 		(fp_text user "B12"
-			(at 6.223 -10.287 90)
+			(at 3.5 -11.3 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "9e715c92-08e3-44b4-be95-83501857c411")
@@ -18252,7 +18282,7 @@
 			)
 		)
 		(fp_text user "A3"
-			(at 6.604 15.113 90)
+			(at 4.6 14 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "a144ee3a-48c5-43c9-a548-5f58d7364b60")
@@ -18265,7 +18295,7 @@
 			)
 		)
 		(fp_text user "B4"
-			(at -4.572 0.127 90)
+			(at -6.5 -1.2 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "a24c6966-add0-40fe-ad24-cf4c0a705a36")
@@ -18278,7 +18308,7 @@
 			)
 		)
 		(fp_text user "B2"
-			(at 6.35 -2.54 90)
+			(at 4.7 -3.8 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "ab2668e7-0869-421a-8433-ef730f9eed21")
@@ -18291,7 +18321,7 @@
 			)
 		)
 		(fp_text user "A13"
-			(at -3.683 -10.16 90)
+			(at -6.5 -11.3 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "ae900eef-2ec6-4fb3-b800-baff3d3fe074")
@@ -18304,7 +18334,7 @@
 			)
 		)
 		(fp_text user "0V"
-			(at -4.445 22.86 90)
+			(at -6.7 21.6 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "b1e91fd5-18a5-4b07-b0f2-9d94f11e923e")
@@ -18317,7 +18347,7 @@
 			)
 		)
 		(fp_text user "B6"
-			(at -4.572 5.08 90)
+			(at -6.6 3.8 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "b756708c-ef12-4c22-81a1-b52aae3a43c7")
@@ -18330,7 +18360,7 @@
 			)
 		)
 		(fp_text user "A8"
-			(at -4.6 -22.9 90)
+			(at -6.6 -24.1 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "bd3617ff-cc2f-4a56-b0ef-0d1a4a024f2b")
@@ -18343,7 +18373,7 @@
 			)
 		)
 		(fp_text user "C13"
-			(at -3.556 15.113 90)
+			(at -6.7 14 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "c086f7a1-13a5-4bd1-a6e2-3e9abbaf38d7")
@@ -18369,7 +18399,7 @@
 			)
 		)
 		(fp_text user "B14"
-			(at 6.223 -15.367 90)
+			(at 3.6 -16.4 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "cdad0de2-51b5-4f32-81f8-b602ea2cd762")
@@ -18382,7 +18412,7 @@
 			)
 		)
 		(fp_text user "B15"
-			(at 6.223 -17.78 90)
+			(at 3.6 -19 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "d992394f-ae50-44c2-b0aa-441657e4c763")
@@ -18395,7 +18425,7 @@
 			)
 		)
 		(fp_text user "RST"
-			(at 6.6 -22.8 90)
+			(at 3.7 -24.1 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "e02572f2-1751-4f24-a7ce-431a90309d15")
@@ -18408,7 +18438,7 @@
 			)
 		)
 		(fp_text user "A2"
-			(at 6.604 17.653 90)
+			(at 4.6 16.5 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "f0f66102-3ac7-4ce2-b68f-9fdca6aa0c46")
@@ -18421,7 +18451,7 @@
 			)
 		)
 		(fp_text user "A14"
-			(at -3.683 -7.747 90)
+			(at -6.4 -8.9 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "f577de36-3fea-43ce-adac-6bd616d8bd55")
@@ -18434,7 +18464,7 @@
 			)
 		)
 		(fp_text user "A5"
-			(at 6.35 9.906 90)
+			(at 4.7 8.9 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "f8895508-4777-4a69-8514-9666d0a4c9c4")
@@ -18447,7 +18477,7 @@
 			)
 		)
 		(fp_text user "C14"
-			(at -3.556 17.78 90)
+			(at -6.7 16.5 270)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "fe31a243-02d8-4051-8953-136e5dc1aa63")
@@ -18943,7 +18973,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18955,7 +18985,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19054,7 +19084,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19066,7 +19096,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19165,7 +19195,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19177,7 +19207,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19276,7 +19306,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19288,7 +19318,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19387,7 +19417,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19399,7 +19429,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19498,7 +19528,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19510,7 +19540,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19609,7 +19639,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19621,7 +19651,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19719,7 +19749,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19731,7 +19761,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19966,7 +19996,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19978,7 +20008,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20214,7 +20244,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20226,7 +20256,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20325,7 +20355,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20337,7 +20367,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20436,7 +20466,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20448,7 +20478,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20547,7 +20577,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20559,7 +20589,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20658,7 +20688,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20670,7 +20700,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20769,7 +20799,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20781,7 +20811,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20880,7 +20910,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20892,7 +20922,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20991,7 +21021,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -21003,7 +21033,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -21698,7 +21728,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -21710,7 +21740,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22405,7 +22435,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22417,7 +22447,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22516,7 +22546,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22528,7 +22558,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22627,7 +22657,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22639,7 +22669,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22737,7 +22767,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22749,7 +22779,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22985,7 +23015,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -22997,7 +23027,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23095,7 +23125,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23107,7 +23137,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23343,7 +23373,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23355,7 +23385,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23454,7 +23484,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23466,7 +23496,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23565,7 +23595,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23577,7 +23607,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23676,7 +23706,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23688,7 +23718,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23787,7 +23817,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23799,7 +23829,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23898,7 +23928,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23910,7 +23940,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24009,7 +24039,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24021,7 +24051,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24120,7 +24150,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24132,7 +24162,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24231,7 +24261,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24243,7 +24273,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24342,7 +24372,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24354,7 +24384,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24452,7 +24482,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24464,7 +24494,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24700,7 +24730,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24712,7 +24742,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24811,7 +24841,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24823,7 +24853,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24922,7 +24952,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -24934,7 +24964,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25032,7 +25062,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25044,7 +25074,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25280,7 +25310,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25292,7 +25322,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25391,7 +25421,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25403,7 +25433,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25502,7 +25532,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25514,7 +25544,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25613,7 +25643,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25625,7 +25655,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25724,7 +25754,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25736,7 +25766,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25835,7 +25865,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25847,7 +25877,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25946,7 +25976,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -25958,7 +25988,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26057,7 +26087,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26069,7 +26099,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26168,7 +26198,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26180,7 +26210,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26279,7 +26309,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26291,7 +26321,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26390,7 +26420,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26402,7 +26432,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26501,7 +26531,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26513,7 +26543,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26612,7 +26642,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26624,7 +26654,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26722,7 +26752,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26734,7 +26764,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26970,7 +27000,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -26982,7 +27012,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27081,7 +27111,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27093,7 +27123,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27192,7 +27222,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27204,7 +27234,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27303,7 +27333,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27315,7 +27345,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27414,7 +27444,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27426,7 +27456,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27525,7 +27555,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27537,7 +27567,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27635,7 +27665,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27647,7 +27677,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27883,7 +27913,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27895,7 +27925,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -27994,7 +28024,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28006,7 +28036,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28105,7 +28135,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28117,7 +28147,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28216,7 +28246,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28228,7 +28258,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28327,7 +28357,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28339,7 +28369,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28438,7 +28468,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28450,7 +28480,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28549,7 +28579,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28561,7 +28591,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28660,7 +28690,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28672,7 +28702,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28771,7 +28801,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28783,7 +28813,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28882,7 +28912,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28894,7 +28924,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -28993,7 +29023,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29005,7 +29035,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29104,7 +29134,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29116,7 +29146,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29215,7 +29245,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29227,7 +29257,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29326,7 +29356,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29338,7 +29368,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29437,7 +29467,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29449,7 +29479,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29548,7 +29578,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29560,7 +29590,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29659,7 +29689,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29671,7 +29701,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29770,7 +29800,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29782,7 +29812,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29881,7 +29911,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29893,7 +29923,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -29992,7 +30022,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -30004,7 +30034,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -30103,7 +30133,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -30115,7 +30145,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -30213,7 +30243,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -30225,7 +30255,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -30461,7 +30491,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -30473,7 +30503,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -30572,7 +30602,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -30584,7 +30614,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31279,7 +31309,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31291,7 +31321,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31390,7 +31420,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31402,7 +31432,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31501,7 +31531,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31513,7 +31543,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31612,7 +31642,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31624,7 +31654,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31723,7 +31753,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31735,7 +31765,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31834,7 +31864,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31846,7 +31876,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31945,7 +31975,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -31957,7 +31987,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -32056,7 +32086,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -32068,7 +32098,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -32167,7 +32197,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -32179,7 +32209,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -32278,7 +32308,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -32290,7 +32320,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -32389,7 +32419,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -32401,7 +32431,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -32500,7 +32530,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -32512,7 +32542,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -33207,7 +33237,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -33219,7 +33249,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -33318,7 +33348,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -33330,7 +33360,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -33429,7 +33459,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -33441,7 +33471,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -33540,7 +33570,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -33552,7 +33582,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -33651,7 +33681,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -33663,7 +33693,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -33762,7 +33792,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -33774,7 +33804,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -33873,7 +33903,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -33885,7 +33915,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -35176,7 +35206,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -35188,7 +35218,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -35287,7 +35317,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -35299,7 +35329,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -35398,7 +35428,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -35410,7 +35440,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -35508,7 +35538,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -35520,7 +35550,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -35755,7 +35785,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -35767,7 +35797,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -36003,7 +36033,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -36015,7 +36045,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -36114,7 +36144,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -36126,7 +36156,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -36225,7 +36255,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -36237,7 +36267,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -36336,7 +36366,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -36348,7 +36378,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -36447,7 +36477,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -36459,7 +36489,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -36559,7 +36589,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -36765,7 +36795,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -36971,7 +37001,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37176,7 +37206,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37382,7 +37412,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37588,7 +37618,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -37794,7 +37824,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -38000,7 +38030,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -38206,7 +38236,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -38412,7 +38442,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -38618,7 +38648,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -38824,7 +38854,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39030,7 +39060,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39236,7 +39266,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39442,7 +39472,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39648,7 +39678,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -39854,7 +39884,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -40060,7 +40090,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -40266,7 +40296,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -67124,6 +67154,42 @@
 		(layer "User.9")
 		(uuid "0e2d5699-bd00-48bd-920a-f93fcfc7c324")
 	)
+	(gr_text "B12"
+		(at 130.7 169.05 -0)
+		(layer "F.SilkS")
+		(uuid "02ec7d81-de90-4061-9b4f-4e35d97c7498")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "A2"
+		(at 182.05 169.1 -0)
+		(layer "F.SilkS")
+		(uuid "07128bdd-5732-4db4-8dd7-aec20dbb68a2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "A4"
+		(at 171.9 169.15 -0)
+		(layer "F.SilkS")
+		(uuid "082e0634-a35a-4954-9073-d19105fc44f3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "12"
 		(at 170.701 116.853 -0)
 		(layer "F.SilkS")
@@ -67150,6 +67216,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "B2"
+		(at 146.4 169.1 -0)
+		(layer "F.SilkS")
+		(uuid "1a596981-38b2-45dd-908f-a4c541ddd0af")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "EXT"
 		(at 195.5 124.1 0)
 		(layer "F.SilkS")
@@ -67159,6 +67237,30 @@
 				(size 1.5 1.5)
 				(thickness 0.375)
 				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "B8"
+		(at 115.9 169.05 -0)
+		(layer "F.SilkS")
+		(uuid "21fb84cb-a45f-466b-b525-c2c8523f5792")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "A5"
+		(at 166.8 169.1 -0)
+		(layer "F.SilkS")
+		(uuid "23be0be8-a913-47b0-a192-7b92375526c9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -67215,6 +67317,30 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "B15"
+		(at 105.35 169.2 0)
+		(layer "F.SilkS")
+		(uuid "4c74e385-20eb-4c55-bdd1-9f5023fa0b2b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "B11"
+		(at 135.8 169.05 -0)
+		(layer "F.SilkS")
+		(uuid "4d7c37f3-3220-4cbd-97a1-e72ebbc70a39")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "5V"
 		(at 100.6 162.2 0)
 		(layer "F.SilkS")
@@ -67254,6 +67380,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "B10"
+		(at 140.9 169.05 -0)
+		(layer "F.SilkS")
+		(uuid "57f937d3-44b5-410f-a492-1f35c62f6560")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "0V"
 		(at 196.3 167.4 0)
 		(layer "F.SilkS")
@@ -67263,6 +67401,18 @@
 				(size 1.5 1.5)
 				(thickness 0.375)
 				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "B1"
+		(at 151.55 169.15 -0)
+		(layer "F.SilkS")
+		(uuid "68b99d93-9ad2-4b0b-bbd3-42f55964afca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -67293,6 +67443,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "A6"
+		(at 161.7 169.1 -0)
+		(layer "F.SilkS")
+		(uuid "794e67be-a827-4d41-9ea8-a1052f8ddf85")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "3V3"
 		(at 100.1 164.8 0)
 		(layer "F.SilkS")
@@ -67302,6 +67464,18 @@
 				(size 1.5 1.5)
 				(thickness 0.375)
 				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "A0"
+		(at 192.25 169.1 -0)
+		(layer "F.SilkS")
+		(uuid "84fbe517-b95e-4a5f-ba5f-99e2c4ddb538")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -67341,6 +67515,18 @@
 				(size 2 2)
 				(thickness 0.5)
 				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "B14"
+		(at 110.45 169.05 -0)
+		(layer "F.SilkS")
+		(uuid "9d6d6730-9cd3-48e0-8e96-a2b4da5e015a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -67397,6 +67583,30 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "B9"
+		(at 121 169.05 -0)
+		(layer "F.SilkS")
+		(uuid "b1330e48-2ea9-4839-94b0-17d94494dbb7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "A3"
+		(at 177 169.1 -0)
+		(layer "F.SilkS")
+		(uuid "b3c2057d-4252-47d0-8e4d-d2bc8089971e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "EXT"
 		(at 100 124.1 0)
 		(layer "F.SilkS")
@@ -67406,6 +67616,18 @@
 				(size 1.5 1.5)
 				(thickness 0.375)
 				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "B13"
+		(at 125.6 169 -0)
+		(layer "F.SilkS")
+		(uuid "bb524c19-f3e9-4482-b131-dbb12b0ff1e2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -67540,6 +67762,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "A1"
+		(at 187.2 169.1 -0)
+		(layer "F.SilkS")
+		(uuid "faad1ff5-a652-4a5e-abd2-df1f71f199df")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "5"
 		(at 136.03 116.726 -0)
 		(layer "F.SilkS")
@@ -67562,6 +67796,18 @@
 				(size 1.5 1.5)
 				(thickness 0.375)
 				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "A7"
+		(at 156.6 169.05 -0)
+		(layer "F.SilkS")
+		(uuid "fe8abfca-25ca-4ded-b9da-d7d93385d2dc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -67605,6 +67851,18 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "B1"
+		(at 150 170.8 270)
+		(layer "B.SilkS")
+		(uuid "06b0b841-d54a-48d9-9d65-61dce41681d0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "5"
 		(at 138.46 116.72 0)
 		(layer "B.SilkS")
@@ -67614,6 +67872,30 @@
 				(size 2 2)
 				(thickness 0.5)
 				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "A3"
+		(at 175.45 170.75 270)
+		(layer "B.SilkS")
+		(uuid "19cfc31f-cdef-4532-bcf6-dfca85c98a25")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "A0"
+		(at 194.1 172.4 0)
+		(layer "B.SilkS")
+		(uuid "1d8c6ac3-e1ef-449f-ac29-9923246c0224")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom mirror)
 		)
@@ -67645,7 +67927,7 @@
 		)
 	)
 	(gr_text "2025/07/17"
-		(at 199.48 170.35 90)
+		(at 197 190.35 270)
 		(layer "B.SilkS")
 		(uuid "3e399960-dd7d-4d05-97e3-d341292b7929")
 		(effects
@@ -67653,6 +67935,18 @@
 				(size 2 2)
 				(thickness 0.5)
 				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "B2"
+		(at 145 170.8 270)
+		(layer "B.SilkS")
+		(uuid "45239b65-a0fe-45fe-9372-c6c4c6e38de4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom mirror)
 		)
@@ -67666,6 +67960,42 @@
 				(size 1.5 1.5)
 				(thickness 0.375)
 				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "A4"
+		(at 170.4 170.85 270)
+		(layer "B.SilkS")
+		(uuid "50e9b67a-8c51-4f30-9fb2-d32b4091865b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "A2"
+		(at 184.05 172.25 0)
+		(layer "B.SilkS")
+		(uuid "53590c49-31fb-4b13-b383-934df8152927")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "B10"
+		(at 139.95 170.9 270)
+		(layer "B.SilkS")
+		(uuid "59da7447-55d0-4182-be3e-20c81be486a2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom mirror)
 		)
@@ -67709,6 +68039,30 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "B14"
+		(at 113.4 173.05 0)
+		(layer "B.SilkS")
+		(uuid "6565bdfa-7d87-4dc9-8a7c-28428cc19d58")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "B9"
+		(at 123.1 173.05 0)
+		(layer "B.SilkS")
+		(uuid "6a53d444-e128-4d74-ac95-10ac5c7f04e9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "2"
 		(at 123.22 116.74 0)
 		(layer "B.SilkS")
@@ -67744,6 +68098,42 @@
 				(size 2 2)
 				(thickness 0.5)
 				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "A7"
+		(at 155.1 170.85 270)
+		(layer "B.SilkS")
+		(uuid "79b85470-b748-4622-ba95-fbf5be393dc8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "B8"
+		(at 118 173.1 0)
+		(layer "B.SilkS")
+		(uuid "7dc3aaac-9bfb-417d-b3a8-723cba4aa135")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "B13"
+		(at 124.55 171 270)
+		(layer "B.SilkS")
+		(uuid "8ae99809-b05a-4298-943a-dadd1f50b887")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom mirror)
 		)
@@ -67827,7 +68217,7 @@
 		)
 	)
 	(gr_text "Basine 10x10"
-		(at 103.23 169.98 90)
+		(at 100.8 191.45 270)
 		(layer "B.SilkS")
 		(uuid "a00c4568-7e3a-4766-a5d0-d05367fdf36c")
 		(effects
@@ -67835,6 +68225,18 @@
 				(size 2 2)
 				(thickness 0.5)
 				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "B12"
+		(at 129.7 170.9 270)
+		(layer "B.SilkS")
+		(uuid "a44dc3eb-181f-4569-912a-582fcbc5c610")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom mirror)
 		)
@@ -67891,6 +68293,18 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "A6"
+		(at 160.15 170.9 270)
+		(layer "B.SilkS")
+		(uuid "c40fc1bb-2583-4a10-92f5-37905f29d83e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "VIN"
 		(at 199.6 119 -0)
 		(layer "B.SilkS")
@@ -67900,6 +68314,18 @@
 				(size 1.5 1.5)
 				(thickness 0.375)
 				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "B11"
+		(at 134.9 170.8 270)
+		(layer "B.SilkS")
+		(uuid "d059b57c-2fe5-4d9b-bf37-9bd4e716a5d9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom mirror)
 		)
@@ -67943,6 +68369,30 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "B15"
+		(at 108.3 173.15 -0)
+		(layer "B.SilkS")
+		(uuid "d9dbd146-522b-4278-a54c-040cb8c8ed1c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "A5"
+		(at 165.3 170.85 270)
+		(layer "B.SilkS")
+		(uuid "e0c575f3-7112-450b-a0a2-aa54fc3a5b20")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "EXT"
 		(at 104.5 124.1 -0)
 		(layer "B.SilkS")
@@ -67978,6 +68428,18 @@
 				(size 2 2)
 				(thickness 0.5)
 				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "A1"
+		(at 189 172.3 0)
+		(layer "B.SilkS")
+		(uuid "f2488e0d-bea9-488e-bbb1-332cf4201290")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom mirror)
 		)
