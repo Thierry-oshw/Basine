@@ -461,6 +461,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -593,7 +594,9 @@
       "/s_ALIM_5V/Vs_f": [
         "alim"
       ],
-      "/s_ALIM_CAN/Vs_f": "alim",
+      "/s_ALIM_CAN/Vs_f": [
+        "alim"
+      ],
       "/s_CAN/CAN_iN": [
         "signal_can"
       ],
@@ -678,8 +681,12 @@
       "VIN": [
         "alim_x2"
       ],
-      "pin1": "alim",
-      "pin2": "alim"
+      "pin1": [
+        "alim"
+      ],
+      "pin2": [
+        "alim"
+      ]
     },
     "netclass_patterns": [
       {
